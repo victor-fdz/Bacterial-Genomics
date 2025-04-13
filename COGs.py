@@ -24,7 +24,7 @@ for cog in cogs: # Iterative process for each row of the COG list
     if cog[0] in tags: # cog[0] is the locus tag
         def_genes.append(cog)
 
-# COnvert the results into a dataframe.
+# Convert the results into a dataframe.
 col_names = ["Old_Locus_Tag", "COG_ID", "COG_cathegory"] # Column names
 df = pd.DataFrame(def_genes,
                   columns = col_names, 
