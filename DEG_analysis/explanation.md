@@ -4,7 +4,7 @@ All of them are **python** scripts that use famous packages⚙️ such as *matpl
 
 ## 📁 `RPKMs_plotting`
 - 📄 `gene_count_fpkm.txt`: FPKM values for each gene and for each replica of the experiment. It is the input.
-- 💻 `RPKM_plot.py`: script that plots the distribution📈 of RPKMs in all the replicas.
+- 💻 `RPKM_barplot.py`: script that plots the distribution📈 of RPKMs in all the replicas.
 - 🎨 `plt_FPKM.png`: FKPM distribution plotted. 
   
 ## 📁 `COG_terms`
