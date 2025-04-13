@@ -21,7 +21,3 @@ Some of the steps needed to solve the diverse questions and objectives we were a
 - 📄 `Stenotrophomonas_maltophilia_K279a_ASM7248v1_genomic.g2d.COG`: COG (Clusters of Orthologous Genes) terms for each gene of the reference S. maltophilia K279a genome. It is one of the inputs. Retrieved from: [Genome2D webserver](http://genome2d.molgenrug.nl/).
 - 💻 `COGs.py`: script that mathches the COG terms to our DEGs.
 - 📄 `DEGs_with_COGs.csv`: csv output file with each DEG and its COG term.
-
-```markdown
-```bash
-head "/COG_terms/DEGs_with_COGs.csv"
