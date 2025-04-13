@@ -1,20 +1,28 @@
 # Problem 2: RNA-seq analysis 🧬
-In this repository you will find some scripts 💻 that I used to solve different problems that my group phased when trying to solve a problem in the context of the subject **Bacterial Genomics**🔬. 
+In this repository you will find some scripts💻 that I used to solve different problems that my group phased when trying to solve a problem🔎 in the context of the subject **Bacterial Genomics**🔬. 
 All of them are **python** scripts that use famous packages⚙️ such as *matplotlib*, *pandas*, *numpy*.
 
-## 📁 `Files`
-In this analysis I'm searching 🔎 for candidate SVs that can be causing an specific disease in an specific animal specie. The file `Plot_SVs_Script.R` ⌨️ is an script that takes as arguments: 
-- 📄 `SVs.txt`: an example file with randomly generated SVs.
-- 📄 `chr_tab_len.txt`: each chromosome of the reference genome with its length. Also artificially modified to keep real data private.
-
-To obtain these files, I used bash coding. First of all, I downloaded the reference genome of my interested specie from NCBI (*genome_info.tsv*). I already had the SVs called (*Candidate_SVs.txt*).
-- **head -n 21 genome_info.tsv | tail -n 20 | cut -f3,11 > chr_tab_len.txt** / To take only the chromosomes of the reference genome (not the unmapped contigs) and only the name/number of the chromosome (3rd column) and its length (11th column).
-- **head -n 52 Candidate_SVs.txt | tail -n 50 |  cut -f1,2,3,9 > SVs.txt** / To ignore the heading and only taking the chromosome where the SV is (1st column), its start coord (2nd), its length (3rd) and its type (9th).
-
-The script generates 3 plots, whose examples are also in the folder: 
+## 📁 `Plotting`
+- 📄 `Locus_tag_filtered_results.txt`: locus tags for each gene that has been defined as differentially expressed in our data (previously filtering⌨️ made).
+- 📄 `Stenotrophomonas_maltophilia_K279a_ASM7248v1_genomic.g2d.COG`: COG (Clusters of Orthologous Genes) terms for each gene of the reference S. maltophilia K279a genome.
+- 💻 `COGs.py`: script that uses the COG terms for our DEGs.
+- 📄 `DEGs_with_COGs.csv`: csv output file with each DEG and its COG term.
 - 🎨 `plot1.txt`: SVs in the reference genome.
 - 🎨 `plot2.txt`: high density 📈 zone of SVs.
 - 🎨 `plot3.txt`: high density zone zoomed, with SVs types labeled. 
+
+## 📁 `COG terms`
+- 📄 `Locus_tag_filtered_results.txt`: locus tags for each gene that has been defined as differentially expressed in our data (previously filtering⌨️ made).
+- 📄 `Stenotrophomonas_maltophilia_K279a_ASM7248v1_genomic.g2d.COG`: COG (Clusters of Orthologous Genes) terms for each gene of the reference S. maltophilia K279a genome.
+- 💻 `COGs.py`: script that uses the COG terms for our DEGs.
+- 📄 `DEGs_with_COGs.csv`: csv output file with each DEG and its COG term. 
+
+
+
+
+  
+The script generates 3 plots, whose examples are also in the folder: 
+
 
 ## 2. Plotting Venn Diagrams of Private/Shared SVs among Animal Genetic Pools (📁 `Venn_Diagrams`)
 
