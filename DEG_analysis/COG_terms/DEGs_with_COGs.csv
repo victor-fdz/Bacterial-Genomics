@@ -1,0 +1,1430 @@
+,Old_Locus_Tag,COG_ID,COG_cathegory
+1,SMLT_RS00015,L,"Replication, recombination and repair"
+2,SMLT_RS00015,O,"Posttranslational modification, protein turnover, chaperones"
+3,SMLT_RS00025,P,Inorganic ion transport and metabolism
+4,SMLT_RS00040,P,Inorganic ion transport and metabolism
+5,SMLT_RS00045,P,Inorganic ion transport and metabolism
+6,SMLT_RS00050,P,Inorganic ion transport and metabolism
+7,SMLT_RS00055,P,Inorganic ion transport and metabolism
+8,SMLT_RS00100,K,Transcription
+9,SMLT_RS00135,L,"Replication, recombination and repair"
+10,SMLT_RS00135,O,"Posttranslational modification, protein turnover, chaperones"
+11,SMLT_RS00170,P,Inorganic ion transport and metabolism
+12,SMLT_RS00205,G,Carbohydrate transport and metabolism
+13,SMLT_RS00230,K,Transcription
+14,SMLT_RS00315,R,General function prediction only
+15,SMLT_RS00335,R,General function prediction only
+16,SMLT_RS00345,R,General function prediction only
+17,SMLT_RS00365,S,Function unknown
+18,SMLT_RS00375,O,"Posttranslational modification, protein turnover, chaperones"
+19,SMLT_RS00375,R,General function prediction only
+20,SMLT_RS00385,T,Signal transduction mechanisms
+21,SMLT_RS00390,K,Transcription
+22,SMLT_RS00390,L,"Replication, recombination and repair"
+23,SMLT_RS00390,R,General function prediction only
+24,SMLT_RS00435,F,Nucleotide transport and metabolism
+25,SMLT_RS00485,E,Amino acid transport and metabolism
+26,SMLT_RS00495,K,Transcription
+27,SMLT_RS00495,L,"Replication, recombination and repair"
+28,SMLT_RS00525,K,Transcription
+29,SMLT_RS00595,M,Cell wall/membrane/envelope biogenesis
+30,SMLT_RS00600,M,Cell wall/membrane/envelope biogenesis
+31,SMLT_RS00615,K,Transcription
+32,SMLT_RS00630,O,"Posttranslational modification, protein turnover, chaperones"
+33,SMLT_RS00655,I,Lipid transport and metabolism
+34,SMLT_RS00675,R,General function prediction only
+35,SMLT_RS00690,M,Cell wall/membrane/envelope biogenesis
+36,SMLT_RS00690,P,Inorganic ion transport and metabolism
+37,SMLT_RS00695,E,Amino acid transport and metabolism
+38,SMLT_RS00695,T,Signal transduction mechanisms
+39,SMLT_RS00700,S,Function unknown
+40,SMLT_RS00705,P,Inorganic ion transport and metabolism
+41,SMLT_RS00710,M,Cell wall/membrane/envelope biogenesis
+42,SMLT_RS00730,T,Signal transduction mechanisms
+43,SMLT_RS00735,K,Transcription
+44,SMLT_RS00735,O,"Posttranslational modification, protein turnover, chaperones"
+45,SMLT_RS00765,P,Inorganic ion transport and metabolism
+46,SMLT_RS00780,I,Lipid transport and metabolism
+47,SMLT_RS00795,U,"Intracellular trafficking, secretion, and vesicular transport"
+48,SMLT_RS00800,P,Inorganic ion transport and metabolism
+49,SMLT_RS00820,P,Inorganic ion transport and metabolism
+50,SMLT_RS00860,S,Function unknown
+51,SMLT_RS00875,C,Energy production and conversion
+52,SMLT_RS00895,J,"Translation, ribosomal structure and biogenesis"
+53,SMLT_RS00915,K,Transcription
+54,SMLT_RS00920,T,Signal transduction mechanisms
+55,SMLT_RS00925,C,Energy production and conversion
+56,SMLT_RS00925,O,"Posttranslational modification, protein turnover, chaperones"
+57,SMLT_RS00965,S,Function unknown
+58,SMLT_RS01085,C,Energy production and conversion
+59,SMLT_RS01090,C,Energy production and conversion
+60,SMLT_RS01115,O,"Posttranslational modification, protein turnover, chaperones"
+61,SMLT_RS01120,C,Energy production and conversion
+62,SMLT_RS01130,K,Transcription
+63,SMLT_RS01135,C,Energy production and conversion
+64,SMLT_RS01160,K,Transcription
+65,SMLT_RS01160,L,"Replication, recombination and repair"
+66,SMLT_RS01160,O,"Posttranslational modification, protein turnover, chaperones"
+67,SMLT_RS01180,I,Lipid transport and metabolism
+68,SMLT_RS01190,R,General function prediction only
+69,SMLT_RS01220,R,General function prediction only
+70,SMLT_RS01230,K,Transcription
+71,SMLT_RS01590,K,Transcription
+72,SMLT_RS01645,R,General function prediction only
+73,SMLT_RS01685,P,Inorganic ion transport and metabolism
+74,SMLT_RS01695,P,Inorganic ion transport and metabolism
+75,SMLT_RS01725,P,Inorganic ion transport and metabolism
+76,SMLT_RS01730,T,Signal transduction mechanisms
+77,SMLT_RS01735,K,Transcription
+78,SMLT_RS01790,R,General function prediction only
+79,SMLT_RS01810,S,Function unknown
+80,SMLT_RS01815,S,Function unknown
+81,SMLT_RS01820,K,Transcription
+82,SMLT_RS01860,M,Cell wall/membrane/envelope biogenesis
+83,SMLT_RS01865,O,"Posttranslational modification, protein turnover, chaperones"
+84,SMLT_RS01865,R,General function prediction only
+85,SMLT_RS01865,T,Signal transduction mechanisms
+86,SMLT_RS01910,O,"Posttranslational modification, protein turnover, chaperones"
+87,SMLT_RS01910,R,General function prediction only
+88,SMLT_RS01935,K,Transcription
+89,SMLT_RS01935,L,"Replication, recombination and repair"
+90,SMLT_RS01935,R,General function prediction only
+91,SMLT_RS01950,O,"Posttranslational modification, protein turnover, chaperones"
+92,SMLT_RS01960,O,"Posttranslational modification, protein turnover, chaperones"
+93,SMLT_RS01960,R,General function prediction only
+94,SMLT_RS01960,T,Signal transduction mechanisms
+95,SMLT_RS02030,R,General function prediction only
+96,SMLT_RS02055,E,Amino acid transport and metabolism
+97,SMLT_RS02065,P,Inorganic ion transport and metabolism
+98,SMLT_RS02065,R,General function prediction only
+99,SMLT_RS02070,C,Energy production and conversion
+100,SMLT_RS02070,P,Inorganic ion transport and metabolism
+101,SMLT_RS02085,P,Inorganic ion transport and metabolism
+102,SMLT_RS02145,J,"Translation, ribosomal structure and biogenesis"
+103,SMLT_RS02145,R,General function prediction only
+104,SMLT_RS02160,H,Coenzyme transport and metabolism
+105,SMLT_RS02200,J,"Translation, ribosomal structure and biogenesis"
+106,SMLT_RS02215,M,Cell wall/membrane/envelope biogenesis
+107,SMLT_RS02220,T,Signal transduction mechanisms
+108,SMLT_RS02225,P,Inorganic ion transport and metabolism
+109,SMLT_RS02225,R,General function prediction only
+110,SMLT_RS02235,M,Cell wall/membrane/envelope biogenesis
+111,SMLT_RS02270,J,"Translation, ribosomal structure and biogenesis"
+112,SMLT_RS02310,C,Energy production and conversion
+113,SMLT_RS02355,O,"Posttranslational modification, protein turnover, chaperones"
+114,SMLT_RS02415,S,Function unknown
+115,SMLT_RS02435,G,Carbohydrate transport and metabolism
+116,SMLT_RS02485,O,"Posttranslational modification, protein turnover, chaperones"
+117,SMLT_RS02485,R,General function prediction only
+118,SMLT_RS02540,R,General function prediction only
+119,SMLT_RS02555,K,Transcription
+120,SMLT_RS02590,K,Transcription
+121,SMLT_RS02610,K,Transcription
+122,SMLT_RS02630,T,Signal transduction mechanisms
+123,SMLT_RS02665,K,Transcription
+124,SMLT_RS02665,R,General function prediction only
+125,SMLT_RS02705,R,General function prediction only
+126,SMLT_RS02710,R,General function prediction only
+127,SMLT_RS02715,M,Cell wall/membrane/envelope biogenesis
+128,SMLT_RS02740,J,"Translation, ribosomal structure and biogenesis"
+129,SMLT_RS02740,R,General function prediction only
+130,SMLT_RS02745,O,"Posttranslational modification, protein turnover, chaperones"
+131,SMLT_RS02745,R,General function prediction only
+132,SMLT_RS02760,I,Lipid transport and metabolism
+133,SMLT_RS02760,T,Signal transduction mechanisms
+134,SMLT_RS02765,L,"Replication, recombination and repair"
+135,SMLT_RS02785,J,"Translation, ribosomal structure and biogenesis"
+136,SMLT_RS02785,R,General function prediction only
+137,SMLT_RS02795,H,Coenzyme transport and metabolism
+138,SMLT_RS02795,P,Inorganic ion transport and metabolism
+139,SMLT_RS02825,O,"Posttranslational modification, protein turnover, chaperones"
+140,SMLT_RS02830,P,Inorganic ion transport and metabolism
+141,SMLT_RS02835,O,"Posttranslational modification, protein turnover, chaperones"
+142,SMLT_RS02870,H,Coenzyme transport and metabolism
+143,SMLT_RS02885,O,"Posttranslational modification, protein turnover, chaperones"
+144,SMLT_RS02885,R,General function prediction only
+145,SMLT_RS02940,P,Inorganic ion transport and metabolism
+146,SMLT_RS02945,O,"Posttranslational modification, protein turnover, chaperones"
+147,SMLT_RS02945,R,General function prediction only
+148,SMLT_RS02955,R,General function prediction only
+149,SMLT_RS02990,P,Inorganic ion transport and metabolism
+150,SMLT_RS02995,P,Inorganic ion transport and metabolism
+151,SMLT_RS03000,Q,"Secondary metabolites biosynthesis, transport and catabolism"
+152,SMLT_RS03005,R,General function prediction only
+153,SMLT_RS03010,J,"Translation, ribosomal structure and biogenesis"
+154,SMLT_RS03010,R,General function prediction only
+155,SMLT_RS03015,R,General function prediction only
+156,SMLT_RS03055,R,General function prediction only
+157,SMLT_RS03090,J,"Translation, ribosomal structure and biogenesis"
+158,SMLT_RS03095,M,Cell wall/membrane/envelope biogenesis
+159,SMLT_RS03095,R,General function prediction only
+160,SMLT_RS03100,M,Cell wall/membrane/envelope biogenesis
+161,SMLT_RS03190,P,Inorganic ion transport and metabolism
+162,SMLT_RS03210,O,"Posttranslational modification, protein turnover, chaperones"
+163,SMLT_RS03210,R,General function prediction only
+164,SMLT_RS03210,T,Signal transduction mechanisms
+165,SMLT_RS03220,R,General function prediction only
+166,SMLT_RS03220,T,Signal transduction mechanisms
+167,SMLT_RS03240,S,Function unknown
+168,SMLT_RS03245,K,Transcription
+169,SMLT_RS03245,L,"Replication, recombination and repair"
+170,SMLT_RS03250,R,General function prediction only
+171,SMLT_RS03255,R,General function prediction only
+172,SMLT_RS03265,P,Inorganic ion transport and metabolism
+173,SMLT_RS03265,R,General function prediction only
+174,SMLT_RS03270,O,"Posttranslational modification, protein turnover, chaperones"
+175,SMLT_RS03275,O,"Posttranslational modification, protein turnover, chaperones"
+176,SMLT_RS03275,P,Inorganic ion transport and metabolism
+177,SMLT_RS03280,P,Inorganic ion transport and metabolism
+178,SMLT_RS03280,R,General function prediction only
+179,SMLT_RS03365,P,Inorganic ion transport and metabolism
+180,SMLT_RS03380,P,Inorganic ion transport and metabolism
+181,SMLT_RS03405,O,"Posttranslational modification, protein turnover, chaperones"
+182,SMLT_RS03405,R,General function prediction only
+183,SMLT_RS03465,H,Coenzyme transport and metabolism
+184,SMLT_RS03470,H,Coenzyme transport and metabolism
+185,SMLT_RS03475,R,General function prediction only
+186,SMLT_RS03480,H,Coenzyme transport and metabolism
+187,SMLT_RS03595,M,Cell wall/membrane/envelope biogenesis
+188,SMLT_RS03595,O,"Posttranslational modification, protein turnover, chaperones"
+189,SMLT_RS03635,O,"Posttranslational modification, protein turnover, chaperones"
+190,SMLT_RS03635,P,Inorganic ion transport and metabolism
+191,SMLT_RS03635,S,Function unknown
+192,SMLT_RS03635,U,"Intracellular trafficking, secretion, and vesicular transport"
+193,SMLT_RS03650,E,Amino acid transport and metabolism
+194,SMLT_RS03700,G,Carbohydrate transport and metabolism
+195,SMLT_RS03710,H,Coenzyme transport and metabolism
+196,SMLT_RS03710,O,"Posttranslational modification, protein turnover, chaperones"
+197,SMLT_RS03765,G,Carbohydrate transport and metabolism
+198,SMLT_RS03770,P,Inorganic ion transport and metabolism
+199,SMLT_RS03770,S,Function unknown
+200,SMLT_RS03815,K,Transcription
+201,SMLT_RS03830,P,Inorganic ion transport and metabolism
+202,SMLT_RS03855,R,General function prediction only
+203,SMLT_RS03880,H,Coenzyme transport and metabolism
+204,SMLT_RS03880,R,General function prediction only
+205,SMLT_RS03915,M,Cell wall/membrane/envelope biogenesis
+206,SMLT_RS03915,P,Inorganic ion transport and metabolism
+207,SMLT_RS03925,E,Amino acid transport and metabolism
+208,SMLT_RS03950,J,"Translation, ribosomal structure and biogenesis"
+209,SMLT_RS03970,J,"Translation, ribosomal structure and biogenesis"
+210,SMLT_RS03970,O,"Posttranslational modification, protein turnover, chaperones"
+211,SMLT_RS03970,R,General function prediction only
+212,SMLT_RS03970,T,Signal transduction mechanisms
+213,SMLT_RS03980,O,"Posttranslational modification, protein turnover, chaperones"
+214,SMLT_RS03995,G,Carbohydrate transport and metabolism
+215,SMLT_RS04000,K,Transcription
+216,SMLT_RS04010,P,Inorganic ion transport and metabolism
+217,SMLT_RS04040,E,Amino acid transport and metabolism
+218,SMLT_RS04080,K,Transcription
+219,SMLT_RS04090,C,Energy production and conversion
+220,SMLT_RS04090,R,General function prediction only
+221,SMLT_RS04110,O,"Posttranslational modification, protein turnover, chaperones"
+222,SMLT_RS04125,C,Energy production and conversion
+223,SMLT_RS04125,R,General function prediction only
+224,SMLT_RS04140,C,Energy production and conversion
+225,SMLT_RS04150,J,"Translation, ribosomal structure and biogenesis"
+226,SMLT_RS04150,T,Signal transduction mechanisms
+227,SMLT_RS04170,I,Lipid transport and metabolism
+228,SMLT_RS04170,O,"Posttranslational modification, protein turnover, chaperones"
+229,SMLT_RS04185,J,"Translation, ribosomal structure and biogenesis"
+230,SMLT_RS04190,J,"Translation, ribosomal structure and biogenesis"
+231,SMLT_RS04195,R,General function prediction only
+232,SMLT_RS04210,T,Signal transduction mechanisms
+233,SMLT_RS04220,T,Signal transduction mechanisms
+234,SMLT_RS04255,D,"Cell cycle control, cell division, chromosome partitioning"
+235,SMLT_RS04255,R,General function prediction only
+236,SMLT_RS04265,P,Inorganic ion transport and metabolism
+237,SMLT_RS04265,R,General function prediction only
+238,SMLT_RS04265,U,"Intracellular trafficking, secretion, and vesicular transport"
+239,SMLT_RS04275,J,"Translation, ribosomal structure and biogenesis"
+240,SMLT_RS04280,J,"Translation, ribosomal structure and biogenesis"
+241,SMLT_RS04280,R,General function prediction only
+242,SMLT_RS04285,J,"Translation, ribosomal structure and biogenesis"
+243,SMLT_RS04285,R,General function prediction only
+244,SMLT_RS04290,J,"Translation, ribosomal structure and biogenesis"
+245,SMLT_RS04290,R,General function prediction only
+246,SMLT_RS04295,K,Transcription
+247,SMLT_RS04305,J,"Translation, ribosomal structure and biogenesis"
+248,SMLT_RS04305,R,General function prediction only
+249,SMLT_RS04310,J,"Translation, ribosomal structure and biogenesis"
+250,SMLT_RS04310,R,General function prediction only
+251,SMLT_RS04315,D,"Cell cycle control, cell division, chromosome partitioning"
+252,SMLT_RS04315,R,General function prediction only
+253,SMLT_RS04320,D,"Cell cycle control, cell division, chromosome partitioning"
+254,SMLT_RS04320,R,General function prediction only
+255,SMLT_RS04325,J,"Translation, ribosomal structure and biogenesis"
+256,SMLT_RS04325,R,General function prediction only
+257,SMLT_RS04330,J,"Translation, ribosomal structure and biogenesis"
+258,SMLT_RS04330,R,General function prediction only
+259,SMLT_RS04335,J,"Translation, ribosomal structure and biogenesis"
+260,SMLT_RS04340,J,"Translation, ribosomal structure and biogenesis"
+261,SMLT_RS04340,R,General function prediction only
+262,SMLT_RS04345,J,"Translation, ribosomal structure and biogenesis"
+263,SMLT_RS04345,R,General function prediction only
+264,SMLT_RS04350,J,"Translation, ribosomal structure and biogenesis"
+265,SMLT_RS04350,R,General function prediction only
+266,SMLT_RS04355,J,"Translation, ribosomal structure and biogenesis"
+267,SMLT_RS04355,R,General function prediction only
+268,SMLT_RS04360,J,"Translation, ribosomal structure and biogenesis"
+269,SMLT_RS04360,R,General function prediction only
+270,SMLT_RS04365,J,"Translation, ribosomal structure and biogenesis"
+271,SMLT_RS04365,R,General function prediction only
+272,SMLT_RS04370,J,"Translation, ribosomal structure and biogenesis"
+273,SMLT_RS04370,R,General function prediction only
+274,SMLT_RS04375,J,"Translation, ribosomal structure and biogenesis"
+275,SMLT_RS04375,R,General function prediction only
+276,SMLT_RS04380,J,"Translation, ribosomal structure and biogenesis"
+277,SMLT_RS04385,J,"Translation, ribosomal structure and biogenesis"
+278,SMLT_RS04385,R,General function prediction only
+279,SMLT_RS04390,J,"Translation, ribosomal structure and biogenesis"
+280,SMLT_RS04390,R,General function prediction only
+281,SMLT_RS04395,J,"Translation, ribosomal structure and biogenesis"
+282,SMLT_RS04395,R,General function prediction only
+283,SMLT_RS04400,J,"Translation, ribosomal structure and biogenesis"
+284,SMLT_RS04405,J,"Translation, ribosomal structure and biogenesis"
+285,SMLT_RS04405,R,General function prediction only
+286,SMLT_RS04410,J,"Translation, ribosomal structure and biogenesis"
+287,SMLT_RS04410,R,General function prediction only
+288,SMLT_RS04415,J,"Translation, ribosomal structure and biogenesis"
+289,SMLT_RS04415,R,General function prediction only
+290,SMLT_RS04420,J,"Translation, ribosomal structure and biogenesis"
+291,SMLT_RS04425,J,"Translation, ribosomal structure and biogenesis"
+292,SMLT_RS04430,P,Inorganic ion transport and metabolism
+293,SMLT_RS04430,U,"Intracellular trafficking, secretion, and vesicular transport"
+294,SMLT_RS04435,J,"Translation, ribosomal structure and biogenesis"
+295,SMLT_RS04435,R,General function prediction only
+296,SMLT_RS04440,J,"Translation, ribosomal structure and biogenesis"
+297,SMLT_RS04440,R,General function prediction only
+298,SMLT_RS04445,J,"Translation, ribosomal structure and biogenesis"
+299,SMLT_RS04445,R,General function prediction only
+300,SMLT_RS04450,K,Transcription
+301,SMLT_RS04455,J,"Translation, ribosomal structure and biogenesis"
+302,SMLT_RS04455,R,General function prediction only
+303,SMLT_RS04460,O,"Posttranslational modification, protein turnover, chaperones"
+304,SMLT_RS04460,P,Inorganic ion transport and metabolism
+305,SMLT_RS04475,P,Inorganic ion transport and metabolism
+306,SMLT_RS04490,D,"Cell cycle control, cell division, chromosome partitioning"
+307,SMLT_RS04490,R,General function prediction only
+308,SMLT_RS04510,O,"Posttranslational modification, protein turnover, chaperones"
+309,SMLT_RS04510,R,General function prediction only
+310,SMLT_RS04675,P,Inorganic ion transport and metabolism
+311,SMLT_RS04690,P,Inorganic ion transport and metabolism
+312,SMLT_RS04750,O,"Posttranslational modification, protein turnover, chaperones"
+313,SMLT_RS04750,U,"Intracellular trafficking, secretion, and vesicular transport"
+314,SMLT_RS04755,O,"Posttranslational modification, protein turnover, chaperones"
+315,SMLT_RS04805,M,Cell wall/membrane/envelope biogenesis
+316,SMLT_RS04810,R,General function prediction only
+317,SMLT_RS04855,M,Cell wall/membrane/envelope biogenesis
+318,SMLT_RS04855,O,"Posttranslational modification, protein turnover, chaperones"
+319,SMLT_RS04855,P,Inorganic ion transport and metabolism
+320,SMLT_RS04945,O,"Posttranslational modification, protein turnover, chaperones"
+321,SMLT_RS04965,J,"Translation, ribosomal structure and biogenesis"
+322,SMLT_RS04980,I,Lipid transport and metabolism
+323,SMLT_RS04980,J,"Translation, ribosomal structure and biogenesis"
+324,SMLT_RS04980,M,Cell wall/membrane/envelope biogenesis
+325,SMLT_RS04980,Q,"Secondary metabolites biosynthesis, transport and catabolism"
+326,SMLT_RS04985,P,Inorganic ion transport and metabolism
+327,SMLT_RS05065,X,"Mobilome: prophages, transposons"
+328,SMLT_RS05095,X,"Mobilome: prophages, transposons"
+329,SMLT_RS05145,R,General function prediction only
+330,SMLT_RS05165,P,Inorganic ion transport and metabolism
+331,SMLT_RS05235,S,Function unknown
+332,SMLT_RS05245,K,Transcription
+333,SMLT_RS05260,E,Amino acid transport and metabolism
+334,SMLT_RS05270,O,"Posttranslational modification, protein turnover, chaperones"
+335,SMLT_RS05270,P,Inorganic ion transport and metabolism
+336,SMLT_RS05275,O,"Posttranslational modification, protein turnover, chaperones"
+337,SMLT_RS05275,P,Inorganic ion transport and metabolism
+338,SMLT_RS05305,L,"Replication, recombination and repair"
+339,SMLT_RS05335,S,Function unknown
+340,SMLT_RS05385,K,Transcription
+341,SMLT_RS05405,M,Cell wall/membrane/envelope biogenesis
+342,SMLT_RS05420,M,Cell wall/membrane/envelope biogenesis
+343,SMLT_RS05440,F,Nucleotide transport and metabolism
+344,SMLT_RS05460,T,Signal transduction mechanisms
+345,SMLT_RS05480,J,"Translation, ribosomal structure and biogenesis"
+346,SMLT_RS05485,J,"Translation, ribosomal structure and biogenesis"
+347,SMLT_RS05505,J,"Translation, ribosomal structure and biogenesis"
+348,SMLT_RS05520,C,Energy production and conversion
+349,SMLT_RS05520,R,General function prediction only
+350,SMLT_RS05545,P,Inorganic ion transport and metabolism
+351,SMLT_RS05585,K,Transcription
+352,SMLT_RS05600,O,"Posttranslational modification, protein turnover, chaperones"
+353,SMLT_RS05600,P,Inorganic ion transport and metabolism
+354,SMLT_RS05600,R,General function prediction only
+355,SMLT_RS05615,K,Transcription
+356,SMLT_RS05675,D,"Cell cycle control, cell division, chromosome partitioning"
+357,SMLT_RS05675,M,Cell wall/membrane/envelope biogenesis
+358,SMLT_RS05675,O,"Posttranslational modification, protein turnover, chaperones"
+359,SMLT_RS05675,T,Signal transduction mechanisms
+360,SMLT_RS05685,Q,"Secondary metabolites biosynthesis, transport and catabolism"
+361,SMLT_RS05685,S,Function unknown
+362,SMLT_RS05700,P,Inorganic ion transport and metabolism
+363,SMLT_RS05710,R,General function prediction only
+364,SMLT_RS05760,L,"Replication, recombination and repair"
+365,SMLT_RS05785,C,Energy production and conversion
+366,SMLT_RS05810,K,Transcription
+367,SMLT_RS05840,R,General function prediction only
+368,SMLT_RS05875,R,General function prediction only
+369,SMLT_RS05905,S,Function unknown
+370,SMLT_RS05915,K,Transcription
+371,SMLT_RS05955,J,"Translation, ribosomal structure and biogenesis"
+372,SMLT_RS05955,M,Cell wall/membrane/envelope biogenesis
+373,SMLT_RS05955,Q,"Secondary metabolites biosynthesis, transport and catabolism"
+374,SMLT_RS05960,O,"Posttranslational modification, protein turnover, chaperones"
+375,SMLT_RS06015,E,Amino acid transport and metabolism
+376,SMLT_RS06015,P,Inorganic ion transport and metabolism
+377,SMLT_RS06025,E,Amino acid transport and metabolism
+378,SMLT_RS06025,P,Inorganic ion transport and metabolism
+379,SMLT_RS06025,V,Defense mechanisms
+380,SMLT_RS06070,D,"Cell cycle control, cell division, chromosome partitioning"
+381,SMLT_RS06085,K,Transcription
+382,SMLT_RS06100,M,Cell wall/membrane/envelope biogenesis
+383,SMLT_RS06115,K,Transcription
+384,SMLT_RS06120,P,Inorganic ion transport and metabolism
+385,SMLT_RS06125,O,"Posttranslational modification, protein turnover, chaperones"
+386,SMLT_RS06125,R,General function prediction only
+387,SMLT_RS06145,K,Transcription
+388,SMLT_RS06175,I,Lipid transport and metabolism
+389,SMLT_RS06180,K,Transcription
+390,SMLT_RS06180,O,"Posttranslational modification, protein turnover, chaperones"
+391,SMLT_RS06185,J,"Translation, ribosomal structure and biogenesis"
+392,SMLT_RS06185,R,General function prediction only
+393,SMLT_RS06190,J,"Translation, ribosomal structure and biogenesis"
+394,SMLT_RS06190,R,General function prediction only
+395,SMLT_RS06195,D,"Cell cycle control, cell division, chromosome partitioning"
+396,SMLT_RS06195,R,General function prediction only
+397,SMLT_RS06295,R,General function prediction only
+398,SMLT_RS06370,K,Transcription
+399,SMLT_RS06385,R,General function prediction only
+400,SMLT_RS06405,K,Transcription
+401,SMLT_RS06415,K,Transcription
+402,SMLT_RS06415,L,"Replication, recombination and repair"
+403,SMLT_RS06420,J,"Translation, ribosomal structure and biogenesis"
+404,SMLT_RS06420,R,General function prediction only
+405,SMLT_RS06430,H,Coenzyme transport and metabolism
+406,SMLT_RS06435,O,"Posttranslational modification, protein turnover, chaperones"
+407,SMLT_RS06435,R,General function prediction only
+408,SMLT_RS06435,T,Signal transduction mechanisms
+409,SMLT_RS06440,P,Inorganic ion transport and metabolism
+410,SMLT_RS06445,I,Lipid transport and metabolism
+411,SMLT_RS06490,P,Inorganic ion transport and metabolism
+412,SMLT_RS06535,P,Inorganic ion transport and metabolism
+413,SMLT_RS06535,R,General function prediction only
+414,SMLT_RS06540,C,Energy production and conversion
+415,SMLT_RS06545,P,Inorganic ion transport and metabolism
+416,SMLT_RS06560,L,"Replication, recombination and repair"
+417,SMLT_RS06560,O,"Posttranslational modification, protein turnover, chaperones"
+418,SMLT_RS06585,D,"Cell cycle control, cell division, chromosome partitioning"
+419,SMLT_RS06585,R,General function prediction only
+420,SMLT_RS06585,U,"Intracellular trafficking, secretion, and vesicular transport"
+421,SMLT_RS06600,J,"Translation, ribosomal structure and biogenesis"
+422,SMLT_RS06600,R,General function prediction only
+423,SMLT_RS06605,J,"Translation, ribosomal structure and biogenesis"
+424,SMLT_RS06605,R,General function prediction only
+425,SMLT_RS06610,J,"Translation, ribosomal structure and biogenesis"
+426,SMLT_RS06615,J,"Translation, ribosomal structure and biogenesis"
+427,SMLT_RS06615,R,General function prediction only
+428,SMLT_RS06635,E,Amino acid transport and metabolism
+429,SMLT_RS06635,P,Inorganic ion transport and metabolism
+430,SMLT_RS06655,C,Energy production and conversion
+431,SMLT_RS06655,P,Inorganic ion transport and metabolism
+432,SMLT_RS06675,U,"Intracellular trafficking, secretion, and vesicular transport"
+433,SMLT_RS06760,E,Amino acid transport and metabolism
+434,SMLT_RS06760,P,Inorganic ion transport and metabolism
+435,SMLT_RS06805,P,Inorganic ion transport and metabolism
+436,SMLT_RS06845,C,Energy production and conversion
+437,SMLT_RS06885,L,"Replication, recombination and repair"
+438,SMLT_RS06885,O,"Posttranslational modification, protein turnover, chaperones"
+439,SMLT_RS06885,R,General function prediction only
+440,SMLT_RS06900,K,Transcription
+441,SMLT_RS06925,J,"Translation, ribosomal structure and biogenesis"
+442,SMLT_RS06925,O,"Posttranslational modification, protein turnover, chaperones"
+443,SMLT_RS06925,R,General function prediction only
+444,SMLT_RS06925,T,Signal transduction mechanisms
+445,SMLT_RS06935,P,Inorganic ion transport and metabolism
+446,SMLT_RS06935,R,General function prediction only
+447,SMLT_RS06945,K,Transcription
+448,SMLT_RS06960,J,"Translation, ribosomal structure and biogenesis"
+449,SMLT_RS06970,L,"Replication, recombination and repair"
+450,SMLT_RS06975,J,"Translation, ribosomal structure and biogenesis"
+451,SMLT_RS06975,K,Transcription
+452,SMLT_RS06975,L,"Replication, recombination and repair"
+453,SMLT_RS07000,F,Nucleotide transport and metabolism
+454,SMLT_RS07010,O,"Posttranslational modification, protein turnover, chaperones"
+455,SMLT_RS07010,R,General function prediction only
+456,SMLT_RS07015,T,Signal transduction mechanisms
+457,SMLT_RS07100,P,Inorganic ion transport and metabolism
+458,SMLT_RS07130,S,Function unknown
+459,SMLT_RS07135,R,General function prediction only
+460,SMLT_RS07160,L,"Replication, recombination and repair"
+461,SMLT_RS07160,R,General function prediction only
+462,SMLT_RS07165,M,Cell wall/membrane/envelope biogenesis
+463,SMLT_RS07190,R,General function prediction only
+464,SMLT_RS07195,I,Lipid transport and metabolism
+465,SMLT_RS07200,M,Cell wall/membrane/envelope biogenesis
+466,SMLT_RS07200,P,Inorganic ion transport and metabolism
+467,SMLT_RS07200,R,General function prediction only
+468,SMLT_RS07210,J,"Translation, ribosomal structure and biogenesis"
+469,SMLT_RS07215,F,Nucleotide transport and metabolism
+470,SMLT_RS07215,T,Signal transduction mechanisms
+471,SMLT_RS07220,T,Signal transduction mechanisms
+472,SMLT_RS07225,R,General function prediction only
+473,SMLT_RS07230,J,"Translation, ribosomal structure and biogenesis"
+474,SMLT_RS07230,R,General function prediction only
+475,SMLT_RS07245,S,Function unknown
+476,SMLT_RS07250,P,Inorganic ion transport and metabolism
+477,SMLT_RS07260,S,Function unknown
+478,SMLT_RS07270,R,General function prediction only
+479,SMLT_RS07270,T,Signal transduction mechanisms
+480,SMLT_RS07325,K,Transcription
+481,SMLT_RS07330,P,Inorganic ion transport and metabolism
+482,SMLT_RS07330,R,General function prediction only
+483,SMLT_RS07340,P,Inorganic ion transport and metabolism
+484,SMLT_RS07385,J,"Translation, ribosomal structure and biogenesis"
+485,SMLT_RS07385,R,General function prediction only
+486,SMLT_RS07390,P,Inorganic ion transport and metabolism
+487,SMLT_RS07390,R,General function prediction only
+488,SMLT_RS07450,O,"Posttranslational modification, protein turnover, chaperones"
+489,SMLT_RS07450,P,Inorganic ion transport and metabolism
+490,SMLT_RS07450,R,General function prediction only
+491,SMLT_RS07455,P,Inorganic ion transport and metabolism
+492,SMLT_RS07460,P,Inorganic ion transport and metabolism
+493,SMLT_RS07475,S,Function unknown
+494,SMLT_RS07480,K,Transcription
+495,SMLT_RS07480,L,"Replication, recombination and repair"
+496,SMLT_RS07480,R,General function prediction only
+497,SMLT_RS07495,O,"Posttranslational modification, protein turnover, chaperones"
+498,SMLT_RS07520,J,"Translation, ribosomal structure and biogenesis"
+499,SMLT_RS07520,R,General function prediction only
+500,SMLT_RS07520,T,Signal transduction mechanisms
+501,SMLT_RS07565,P,Inorganic ion transport and metabolism
+502,SMLT_RS07580,T,Signal transduction mechanisms
+503,SMLT_RS07585,T,Signal transduction mechanisms
+504,SMLT_RS07620,P,Inorganic ion transport and metabolism
+505,SMLT_RS07625,P,Inorganic ion transport and metabolism
+506,SMLT_RS07665,J,"Translation, ribosomal structure and biogenesis"
+507,SMLT_RS07675,P,Inorganic ion transport and metabolism
+508,SMLT_RS07675,R,General function prediction only
+509,SMLT_RS07680,O,"Posttranslational modification, protein turnover, chaperones"
+510,SMLT_RS07680,R,General function prediction only
+511,SMLT_RS07690,J,"Translation, ribosomal structure and biogenesis"
+512,SMLT_RS07690,O,"Posttranslational modification, protein turnover, chaperones"
+513,SMLT_RS07690,R,General function prediction only
+514,SMLT_RS07690,T,Signal transduction mechanisms
+515,SMLT_RS07700,G,Carbohydrate transport and metabolism
+516,SMLT_RS07700,K,Transcription
+517,SMLT_RS07705,P,Inorganic ion transport and metabolism
+518,SMLT_RS07710,P,Inorganic ion transport and metabolism
+519,SMLT_RS07715,P,Inorganic ion transport and metabolism
+520,SMLT_RS07745,H,Coenzyme transport and metabolism
+521,SMLT_RS07760,O,"Posttranslational modification, protein turnover, chaperones"
+522,SMLT_RS07805,W,Extracellular structures
+523,SMLT_RS07860,C,Energy production and conversion
+524,SMLT_RS07900,O,"Posttranslational modification, protein turnover, chaperones"
+525,SMLT_RS07900,P,Inorganic ion transport and metabolism
+526,SMLT_RS07900,R,General function prediction only
+527,SMLT_RS07905,M,Cell wall/membrane/envelope biogenesis
+528,SMLT_RS07905,O,"Posttranslational modification, protein turnover, chaperones"
+529,SMLT_RS07910,M,Cell wall/membrane/envelope biogenesis
+530,SMLT_RS07910,R,General function prediction only
+531,SMLT_RS07910,T,Signal transduction mechanisms
+532,SMLT_RS07940,F,Nucleotide transport and metabolism
+533,SMLT_RS07940,R,General function prediction only
+534,SMLT_RS07950,P,Inorganic ion transport and metabolism
+535,SMLT_RS07950,R,General function prediction only
+536,SMLT_RS07955,P,Inorganic ion transport and metabolism
+537,SMLT_RS07960,O,"Posttranslational modification, protein turnover, chaperones"
+538,SMLT_RS07960,R,General function prediction only
+539,SMLT_RS08070,S,Function unknown
+540,SMLT_RS08085,R,General function prediction only
+541,SMLT_RS08100,G,Carbohydrate transport and metabolism
+542,SMLT_RS08100,K,Transcription
+543,SMLT_RS08110,K,Transcription
+544,SMLT_RS08115,K,Transcription
+545,SMLT_RS08140,R,General function prediction only
+546,SMLT_RS08140,T,Signal transduction mechanisms
+547,SMLT_RS08150,F,Nucleotide transport and metabolism
+548,SMLT_RS08160,E,Amino acid transport and metabolism
+549,SMLT_RS08175,O,"Posttranslational modification, protein turnover, chaperones"
+550,SMLT_RS08195,R,General function prediction only
+551,SMLT_RS08215,P,Inorganic ion transport and metabolism
+552,SMLT_RS08220,S,Function unknown
+553,SMLT_RS08230,D,"Cell cycle control, cell division, chromosome partitioning"
+554,SMLT_RS08230,K,Transcription
+555,SMLT_RS08230,O,"Posttranslational modification, protein turnover, chaperones"
+556,SMLT_RS08230,R,General function prediction only
+557,SMLT_RS08240,F,Nucleotide transport and metabolism
+558,SMLT_RS08245,M,Cell wall/membrane/envelope biogenesis
+559,SMLT_RS08245,T,Signal transduction mechanisms
+560,SMLT_RS08270,I,Lipid transport and metabolism
+561,SMLT_RS08275,I,Lipid transport and metabolism
+562,SMLT_RS08280,O,"Posttranslational modification, protein turnover, chaperones"
+563,SMLT_RS08280,R,General function prediction only
+564,SMLT_RS08320,J,"Translation, ribosomal structure and biogenesis"
+565,SMLT_RS08320,R,General function prediction only
+566,SMLT_RS08350,J,"Translation, ribosomal structure and biogenesis"
+567,SMLT_RS08375,K,Transcription
+568,SMLT_RS08395,R,General function prediction only
+569,SMLT_RS08395,T,Signal transduction mechanisms
+570,SMLT_RS08415,G,Carbohydrate transport and metabolism
+571,SMLT_RS08445,R,General function prediction only
+572,SMLT_RS08450,P,Inorganic ion transport and metabolism
+573,SMLT_RS08455,C,Energy production and conversion
+574,SMLT_RS08455,O,"Posttranslational modification, protein turnover, chaperones"
+575,SMLT_RS08460,C,Energy production and conversion
+576,SMLT_RS08460,O,"Posttranslational modification, protein turnover, chaperones"
+577,SMLT_RS08460,P,Inorganic ion transport and metabolism
+578,SMLT_RS08475,S,Function unknown
+579,SMLT_RS08520,R,General function prediction only
+580,SMLT_RS08545,R,General function prediction only
+581,SMLT_RS08560,O,"Posttranslational modification, protein turnover, chaperones"
+582,SMLT_RS08575,J,"Translation, ribosomal structure and biogenesis"
+583,SMLT_RS08575,R,General function prediction only
+584,SMLT_RS08610,K,Transcription
+585,SMLT_RS08615,T,Signal transduction mechanisms
+586,SMLT_RS08635,J,"Translation, ribosomal structure and biogenesis"
+587,SMLT_RS08640,R,General function prediction only
+588,SMLT_RS08655,G,Carbohydrate transport and metabolism
+589,SMLT_RS08655,R,General function prediction only
+590,SMLT_RS08660,O,"Posttranslational modification, protein turnover, chaperones"
+591,SMLT_RS08660,P,Inorganic ion transport and metabolism
+592,SMLT_RS08660,R,General function prediction only
+593,SMLT_RS08670,P,Inorganic ion transport and metabolism
+594,SMLT_RS08675,C,Energy production and conversion
+595,SMLT_RS08680,C,Energy production and conversion
+596,SMLT_RS08700,P,Inorganic ion transport and metabolism
+597,SMLT_RS08705,O,"Posttranslational modification, protein turnover, chaperones"
+598,SMLT_RS08705,P,Inorganic ion transport and metabolism
+599,SMLT_RS08705,R,General function prediction only
+600,SMLT_RS08720,K,Transcription
+601,SMLT_RS08720,L,"Replication, recombination and repair"
+602,SMLT_RS08720,R,General function prediction only
+603,SMLT_RS08765,R,General function prediction only
+604,SMLT_RS08785,F,Nucleotide transport and metabolism
+605,SMLT_RS08805,T,Signal transduction mechanisms
+606,SMLT_RS08845,P,Inorganic ion transport and metabolism
+607,SMLT_RS08870,R,General function prediction only
+608,SMLT_RS08890,J,"Translation, ribosomal structure and biogenesis"
+609,SMLT_RS08890,O,"Posttranslational modification, protein turnover, chaperones"
+610,SMLT_RS09175,K,Transcription
+611,SMLT_RS09210,K,Transcription
+612,SMLT_RS09245,S,Function unknown
+613,SMLT_RS09260,L,"Replication, recombination and repair"
+614,SMLT_RS09295,K,Transcription
+615,SMLT_RS09560,M,Cell wall/membrane/envelope biogenesis
+616,SMLT_RS09620,K,Transcription
+617,SMLT_RS09625,O,"Posttranslational modification, protein turnover, chaperones"
+618,SMLT_RS09635,O,"Posttranslational modification, protein turnover, chaperones"
+619,SMLT_RS09705,J,"Translation, ribosomal structure and biogenesis"
+620,SMLT_RS09705,O,"Posttranslational modification, protein turnover, chaperones"
+621,SMLT_RS09710,U,"Intracellular trafficking, secretion, and vesicular transport"
+622,SMLT_RS09715,P,Inorganic ion transport and metabolism
+623,SMLT_RS09715,U,"Intracellular trafficking, secretion, and vesicular transport"
+624,SMLT_RS09725,I,Lipid transport and metabolism
+625,SMLT_RS09740,S,Function unknown
+626,SMLT_RS09755,K,Transcription
+627,SMLT_RS09755,R,General function prediction only
+628,SMLT_RS09770,T,Signal transduction mechanisms
+629,SMLT_RS09775,O,"Posttranslational modification, protein turnover, chaperones"
+630,SMLT_RS09775,R,General function prediction only
+631,SMLT_RS09790,K,Transcription
+632,SMLT_RS09790,O,"Posttranslational modification, protein turnover, chaperones"
+633,SMLT_RS09790,R,General function prediction only
+634,SMLT_RS09795,C,Energy production and conversion
+635,SMLT_RS09800,C,Energy production and conversion
+636,SMLT_RS09800,O,"Posttranslational modification, protein turnover, chaperones"
+637,SMLT_RS09845,J,"Translation, ribosomal structure and biogenesis"
+638,SMLT_RS09845,R,General function prediction only
+639,SMLT_RS09850,F,Nucleotide transport and metabolism
+640,SMLT_RS09850,O,"Posttranslational modification, protein turnover, chaperones"
+641,SMLT_RS09855,J,"Translation, ribosomal structure and biogenesis"
+642,SMLT_RS09855,R,General function prediction only
+643,SMLT_RS09860,D,"Cell cycle control, cell division, chromosome partitioning"
+644,SMLT_RS09860,K,Transcription
+645,SMLT_RS09860,L,"Replication, recombination and repair"
+646,SMLT_RS09905,F,Nucleotide transport and metabolism
+647,SMLT_RS09935,R,General function prediction only
+648,SMLT_RS09950,K,Transcription
+649,SMLT_RS09970,F,Nucleotide transport and metabolism
+650,SMLT_RS09970,R,General function prediction only
+651,SMLT_RS09975,F,Nucleotide transport and metabolism
+652,SMLT_RS09975,O,"Posttranslational modification, protein turnover, chaperones"
+653,SMLT_RS10065,F,Nucleotide transport and metabolism
+654,SMLT_RS10070,K,Transcription
+655,SMLT_RS10080,N,Cell motility
+656,SMLT_RS10080,T,Signal transduction mechanisms
+657,SMLT_RS10085,F,Nucleotide transport and metabolism
+658,SMLT_RS10140,R,General function prediction only
+659,SMLT_RS10155,K,Transcription
+660,SMLT_RS10160,T,Signal transduction mechanisms
+661,SMLT_RS10215,J,"Translation, ribosomal structure and biogenesis"
+662,SMLT_RS10220,P,Inorganic ion transport and metabolism
+663,SMLT_RS10235,J,"Translation, ribosomal structure and biogenesis"
+664,SMLT_RS10235,R,General function prediction only
+665,SMLT_RS10275,K,Transcription
+666,SMLT_RS10280,T,Signal transduction mechanisms
+667,SMLT_RS10285,K,Transcription
+668,SMLT_RS10300,T,Signal transduction mechanisms
+669,SMLT_RS10310,N,Cell motility
+670,SMLT_RS10310,T,Signal transduction mechanisms
+671,SMLT_RS10315,T,Signal transduction mechanisms
+672,SMLT_RS10355,P,Inorganic ion transport and metabolism
+673,SMLT_RS10380,J,"Translation, ribosomal structure and biogenesis"
+674,SMLT_RS10380,O,"Posttranslational modification, protein turnover, chaperones"
+675,SMLT_RS10380,T,Signal transduction mechanisms
+676,SMLT_RS10385,R,General function prediction only
+677,SMLT_RS10405,E,Amino acid transport and metabolism
+678,SMLT_RS10405,T,Signal transduction mechanisms
+679,SMLT_RS10410,F,Nucleotide transport and metabolism
+680,SMLT_RS10410,T,Signal transduction mechanisms
+681,SMLT_RS10420,T,Signal transduction mechanisms
+682,SMLT_RS10430,R,General function prediction only
+683,SMLT_RS10455,P,Inorganic ion transport and metabolism
+684,SMLT_RS10460,P,Inorganic ion transport and metabolism
+685,SMLT_RS10460,R,General function prediction only
+686,SMLT_RS10465,K,Transcription
+687,SMLT_RS10475,P,Inorganic ion transport and metabolism
+688,SMLT_RS10480,R,General function prediction only
+689,SMLT_RS10485,K,Transcription
+690,SMLT_RS10490,G,Carbohydrate transport and metabolism
+691,SMLT_RS10500,R,General function prediction only
+692,SMLT_RS10535,E,Amino acid transport and metabolism
+693,SMLT_RS10535,P,Inorganic ion transport and metabolism
+694,SMLT_RS10550,P,Inorganic ion transport and metabolism
+695,SMLT_RS10550,R,General function prediction only
+696,SMLT_RS10575,K,Transcription
+697,SMLT_RS10580,P,Inorganic ion transport and metabolism
+698,SMLT_RS10585,P,Inorganic ion transport and metabolism
+699,SMLT_RS10600,T,Signal transduction mechanisms
+700,SMLT_RS10630,R,General function prediction only
+701,SMLT_RS10630,S,Function unknown
+702,SMLT_RS10710,J,"Translation, ribosomal structure and biogenesis"
+703,SMLT_RS10710,T,Signal transduction mechanisms
+704,SMLT_RS10715,K,Transcription
+705,SMLT_RS10765,K,Transcription
+706,SMLT_RS10770,P,Inorganic ion transport and metabolism
+707,SMLT_RS10780,P,Inorganic ion transport and metabolism
+708,SMLT_RS10785,K,Transcription
+709,SMLT_RS10790,R,General function prediction only
+710,SMLT_RS10850,N,Cell motility
+711,SMLT_RS10850,R,General function prediction only
+712,SMLT_RS10860,N,Cell motility
+713,SMLT_RS10860,T,Signal transduction mechanisms
+714,SMLT_RS10890,P,Inorganic ion transport and metabolism
+715,SMLT_RS10935,S,Function unknown
+716,SMLT_RS10940,T,Signal transduction mechanisms
+717,SMLT_RS11000,N,Cell motility
+718,SMLT_RS11010,N,Cell motility
+719,SMLT_RS11035,K,Transcription
+720,SMLT_RS11035,O,"Posttranslational modification, protein turnover, chaperones"
+721,SMLT_RS11050,K,Transcription
+722,SMLT_RS11075,N,Cell motility
+723,SMLT_RS11080,N,Cell motility
+724,SMLT_RS11085,N,Cell motility
+725,SMLT_RS11145,N,Cell motility
+726,SMLT_RS11145,T,Signal transduction mechanisms
+727,SMLT_RS11150,M,Cell wall/membrane/envelope biogenesis
+728,SMLT_RS11190,K,Transcription
+729,SMLT_RS11235,O,"Posttranslational modification, protein turnover, chaperones"
+730,SMLT_RS11245,J,"Translation, ribosomal structure and biogenesis"
+731,SMLT_RS11245,R,General function prediction only
+732,SMLT_RS11270,K,Transcription
+733,SMLT_RS11270,O,"Posttranslational modification, protein turnover, chaperones"
+734,SMLT_RS11270,R,General function prediction only
+735,SMLT_RS11325,O,"Posttranslational modification, protein turnover, chaperones"
+736,SMLT_RS11325,R,General function prediction only
+737,SMLT_RS11340,D,"Cell cycle control, cell division, chromosome partitioning"
+738,SMLT_RS11340,R,General function prediction only
+739,SMLT_RS11425,T,Signal transduction mechanisms
+740,SMLT_RS11540,R,General function prediction only
+741,SMLT_RS11545,K,Transcription
+742,SMLT_RS11555,P,Inorganic ion transport and metabolism
+743,SMLT_RS11560,P,Inorganic ion transport and metabolism
+744,SMLT_RS11560,R,General function prediction only
+745,SMLT_RS11570,K,Transcription
+746,SMLT_RS11570,X,"Mobilome: prophages, transposons"
+747,SMLT_RS11580,R,General function prediction only
+748,SMLT_RS11715,C,Energy production and conversion
+749,SMLT_RS11725,R,General function prediction only
+750,SMLT_RS11750,O,"Posttranslational modification, protein turnover, chaperones"
+751,SMLT_RS11765,P,Inorganic ion transport and metabolism
+752,SMLT_RS11765,R,General function prediction only
+753,SMLT_RS11775,P,Inorganic ion transport and metabolism
+754,SMLT_RS11780,P,Inorganic ion transport and metabolism
+755,SMLT_RS11780,R,General function prediction only
+756,SMLT_RS11785,C,Energy production and conversion
+757,SMLT_RS11785,P,Inorganic ion transport and metabolism
+758,SMLT_RS11790,K,Transcription
+759,SMLT_RS11795,K,Transcription
+760,SMLT_RS11795,L,"Replication, recombination and repair"
+761,SMLT_RS11875,R,General function prediction only
+762,SMLT_RS11890,K,Transcription
+763,SMLT_RS11890,L,"Replication, recombination and repair"
+764,SMLT_RS11895,R,General function prediction only
+765,SMLT_RS11900,R,General function prediction only
+766,SMLT_RS11910,O,"Posttranslational modification, protein turnover, chaperones"
+767,SMLT_RS11970,K,Transcription
+768,SMLT_RS11970,R,General function prediction only
+769,SMLT_RS12080,F,Nucleotide transport and metabolism
+770,SMLT_RS12090,L,"Replication, recombination and repair"
+771,SMLT_RS12090,O,"Posttranslational modification, protein turnover, chaperones"
+772,SMLT_RS12110,F,Nucleotide transport and metabolism
+773,SMLT_RS12195,K,Transcription
+774,SMLT_RS12200,M,Cell wall/membrane/envelope biogenesis
+775,SMLT_RS12200,P,Inorganic ion transport and metabolism
+776,SMLT_RS12215,M,Cell wall/membrane/envelope biogenesis
+777,SMLT_RS12215,P,Inorganic ion transport and metabolism
+778,SMLT_RS12235,G,Carbohydrate transport and metabolism
+779,SMLT_RS12250,K,Transcription
+780,SMLT_RS12300,F,Nucleotide transport and metabolism
+781,SMLT_RS12325,C,Energy production and conversion
+782,SMLT_RS12345,G,Carbohydrate transport and metabolism
+783,SMLT_RS12350,S,Function unknown
+784,SMLT_RS12355,P,Inorganic ion transport and metabolism
+785,SMLT_RS12360,S,Function unknown
+786,SMLT_RS12375,K,Transcription
+787,SMLT_RS12385,C,Energy production and conversion
+788,SMLT_RS12400,P,Inorganic ion transport and metabolism
+789,SMLT_RS12410,J,"Translation, ribosomal structure and biogenesis"
+790,SMLT_RS12445,S,Function unknown
+791,SMLT_RS12470,K,Transcription
+792,SMLT_RS12500,K,Transcription
+793,SMLT_RS12500,O,"Posttranslational modification, protein turnover, chaperones"
+794,SMLT_RS12560,K,Transcription
+795,SMLT_RS12570,T,Signal transduction mechanisms
+796,SMLT_RS12600,P,Inorganic ion transport and metabolism
+797,SMLT_RS12620,K,Transcription
+798,SMLT_RS12640,K,Transcription
+799,SMLT_RS12665,R,General function prediction only
+800,SMLT_RS12670,P,Inorganic ion transport and metabolism
+801,SMLT_RS12720,P,Inorganic ion transport and metabolism
+802,SMLT_RS12725,R,General function prediction only
+803,SMLT_RS12755,G,Carbohydrate transport and metabolism
+804,SMLT_RS12755,K,Transcription
+805,SMLT_RS12840,K,Transcription
+806,SMLT_RS12865,P,Inorganic ion transport and metabolism
+807,SMLT_RS12890,O,"Posttranslational modification, protein turnover, chaperones"
+808,SMLT_RS12960,R,General function prediction only
+809,SMLT_RS12995,P,Inorganic ion transport and metabolism
+810,SMLT_RS13130,G,Carbohydrate transport and metabolism
+811,SMLT_RS13135,G,Carbohydrate transport and metabolism
+812,SMLT_RS13155,T,Signal transduction mechanisms
+813,SMLT_RS13160,C,Energy production and conversion
+814,SMLT_RS13160,R,General function prediction only
+815,SMLT_RS13220,P,Inorganic ion transport and metabolism
+816,SMLT_RS13255,R,General function prediction only
+817,SMLT_RS13300,K,Transcription
+818,SMLT_RS13300,R,General function prediction only
+819,SMLT_RS13320,P,Inorganic ion transport and metabolism
+820,SMLT_RS13320,R,General function prediction only
+821,SMLT_RS13335,K,Transcription
+822,SMLT_RS13340,T,Signal transduction mechanisms
+823,SMLT_RS13345,P,Inorganic ion transport and metabolism
+824,SMLT_RS13350,O,"Posttranslational modification, protein turnover, chaperones"
+825,SMLT_RS13390,K,Transcription
+826,SMLT_RS13400,L,"Replication, recombination and repair"
+827,SMLT_RS13400,Q,"Secondary metabolites biosynthesis, transport and catabolism"
+828,SMLT_RS13400,S,Function unknown
+829,SMLT_RS13455,R,General function prediction only
+830,SMLT_RS13480,P,Inorganic ion transport and metabolism
+831,SMLT_RS13485,P,Inorganic ion transport and metabolism
+832,SMLT_RS13490,O,"Posttranslational modification, protein turnover, chaperones"
+833,SMLT_RS13495,K,Transcription
+834,SMLT_RS13500,P,Inorganic ion transport and metabolism
+835,SMLT_RS13530,P,Inorganic ion transport and metabolism
+836,SMLT_RS13535,P,Inorganic ion transport and metabolism
+837,SMLT_RS13555,P,Inorganic ion transport and metabolism
+838,SMLT_RS13585,P,Inorganic ion transport and metabolism
+839,SMLT_RS13590,P,Inorganic ion transport and metabolism
+840,SMLT_RS13595,K,Transcription
+841,SMLT_RS13615,P,Inorganic ion transport and metabolism
+842,SMLT_RS13615,R,General function prediction only
+843,SMLT_RS13625,K,Transcription
+844,SMLT_RS13635,P,Inorganic ion transport and metabolism
+845,SMLT_RS13645,M,Cell wall/membrane/envelope biogenesis
+846,SMLT_RS13650,R,General function prediction only
+847,SMLT_RS13825,P,Inorganic ion transport and metabolism
+848,SMLT_RS13845,P,Inorganic ion transport and metabolism
+849,SMLT_RS13855,K,Transcription
+850,SMLT_RS13860,S,Function unknown
+851,SMLT_RS13890,K,Transcription
+852,SMLT_RS13925,K,Transcription
+853,SMLT_RS13925,L,"Replication, recombination and repair"
+854,SMLT_RS13925,R,General function prediction only
+855,SMLT_RS13960,K,Transcription
+856,SMLT_RS13970,P,Inorganic ion transport and metabolism
+857,SMLT_RS13980,P,Inorganic ion transport and metabolism
+858,SMLT_RS14000,E,Amino acid transport and metabolism
+859,SMLT_RS14000,P,Inorganic ion transport and metabolism
+860,SMLT_RS14005,P,Inorganic ion transport and metabolism
+861,SMLT_RS14010,R,General function prediction only
+862,SMLT_RS14020,K,Transcription
+863,SMLT_RS14085,N,Cell motility
+864,SMLT_RS14085,P,Inorganic ion transport and metabolism
+865,SMLT_RS14085,T,Signal transduction mechanisms
+866,SMLT_RS14105,T,Signal transduction mechanisms
+867,SMLT_RS14180,G,Carbohydrate transport and metabolism
+868,SMLT_RS14180,O,"Posttranslational modification, protein turnover, chaperones"
+869,SMLT_RS14185,P,Inorganic ion transport and metabolism
+870,SMLT_RS14200,L,"Replication, recombination and repair"
+871,SMLT_RS14200,R,General function prediction only
+872,SMLT_RS14320,P,Inorganic ion transport and metabolism
+873,SMLT_RS14330,P,Inorganic ion transport and metabolism
+874,SMLT_RS14350,K,Transcription
+875,SMLT_RS14385,T,Signal transduction mechanisms
+876,SMLT_RS14400,P,Inorganic ion transport and metabolism
+877,SMLT_RS14440,K,Transcription
+878,SMLT_RS14440,L,"Replication, recombination and repair"
+879,SMLT_RS14445,L,"Replication, recombination and repair"
+880,SMLT_RS14495,R,General function prediction only
+881,SMLT_RS14505,M,Cell wall/membrane/envelope biogenesis
+882,SMLT_RS14510,P,Inorganic ion transport and metabolism
+883,SMLT_RS14510,R,General function prediction only
+884,SMLT_RS14530,R,General function prediction only
+885,SMLT_RS14590,S,Function unknown
+886,SMLT_RS14725,R,General function prediction only
+887,SMLT_RS14775,K,Transcription
+888,SMLT_RS14775,R,General function prediction only
+889,SMLT_RS14775,V,Defense mechanisms
+890,SMLT_RS14785,K,Transcription
+891,SMLT_RS14795,Q,"Secondary metabolites biosynthesis, transport and catabolism"
+892,SMLT_RS14795,T,Signal transduction mechanisms
+893,SMLT_RS14800,E,Amino acid transport and metabolism
+894,SMLT_RS14800,T,Signal transduction mechanisms
+895,SMLT_RS14805,E,Amino acid transport and metabolism
+896,SMLT_RS14830,P,Inorganic ion transport and metabolism
+897,SMLT_RS14860,K,Transcription
+898,SMLT_RS14890,S,Function unknown
+899,SMLT_RS14935,D,"Cell cycle control, cell division, chromosome partitioning"
+900,SMLT_RS14935,K,Transcription
+901,SMLT_RS14935,L,"Replication, recombination and repair"
+902,SMLT_RS14935,O,"Posttranslational modification, protein turnover, chaperones"
+903,SMLT_RS14990,J,"Translation, ribosomal structure and biogenesis"
+904,SMLT_RS14990,R,General function prediction only
+905,SMLT_RS14995,J,"Translation, ribosomal structure and biogenesis"
+906,SMLT_RS14995,R,General function prediction only
+907,SMLT_RS15000,J,"Translation, ribosomal structure and biogenesis"
+908,SMLT_RS15035,P,Inorganic ion transport and metabolism
+909,SMLT_RS15040,R,General function prediction only
+910,SMLT_RS15095,P,Inorganic ion transport and metabolism
+911,SMLT_RS15140,S,Function unknown
+912,SMLT_RS15145,P,Inorganic ion transport and metabolism
+913,SMLT_RS15150,O,"Posttranslational modification, protein turnover, chaperones"
+914,SMLT_RS15225,C,Energy production and conversion
+915,SMLT_RS15255,C,Energy production and conversion
+916,SMLT_RS15265,C,Energy production and conversion
+917,SMLT_RS15300,C,Energy production and conversion
+918,SMLT_RS15310,K,Transcription
+919,SMLT_RS15310,R,General function prediction only
+920,SMLT_RS15340,J,"Translation, ribosomal structure and biogenesis"
+921,SMLT_RS15405,E,Amino acid transport and metabolism
+922,SMLT_RS15405,P,Inorganic ion transport and metabolism
+923,SMLT_RS15405,V,Defense mechanisms
+924,SMLT_RS15410,R,General function prediction only
+925,SMLT_RS15420,R,General function prediction only
+926,SMLT_RS15445,P,Inorganic ion transport and metabolism
+927,SMLT_RS15450,P,Inorganic ion transport and metabolism
+928,SMLT_RS15455,J,"Translation, ribosomal structure and biogenesis"
+929,SMLT_RS15455,O,"Posttranslational modification, protein turnover, chaperones"
+930,SMLT_RS15455,R,General function prediction only
+931,SMLT_RS15495,P,Inorganic ion transport and metabolism
+932,SMLT_RS15495,R,General function prediction only
+933,SMLT_RS15500,K,Transcription
+934,SMLT_RS15525,J,"Translation, ribosomal structure and biogenesis"
+935,SMLT_RS15525,O,"Posttranslational modification, protein turnover, chaperones"
+936,SMLT_RS15525,R,General function prediction only
+937,SMLT_RS15565,P,Inorganic ion transport and metabolism
+938,SMLT_RS15570,C,Energy production and conversion
+939,SMLT_RS15570,P,Inorganic ion transport and metabolism
+940,SMLT_RS15590,C,Energy production and conversion
+941,SMLT_RS15605,E,Amino acid transport and metabolism
+942,SMLT_RS15605,S,Function unknown
+943,SMLT_RS15605,T,Signal transduction mechanisms
+944,SMLT_RS15625,P,Inorganic ion transport and metabolism
+945,SMLT_RS15630,P,Inorganic ion transport and metabolism
+946,SMLT_RS15655,G,Carbohydrate transport and metabolism
+947,SMLT_RS15680,E,Amino acid transport and metabolism
+948,SMLT_RS15680,J,"Translation, ribosomal structure and biogenesis"
+949,SMLT_RS15680,K,Transcription
+950,SMLT_RS15680,R,General function prediction only
+951,SMLT_RS15680,T,Signal transduction mechanisms
+952,SMLT_RS15690,E,Amino acid transport and metabolism
+953,SMLT_RS15695,P,Inorganic ion transport and metabolism
+954,SMLT_RS15705,E,Amino acid transport and metabolism
+955,SMLT_RS15705,T,Signal transduction mechanisms
+956,SMLT_RS15715,E,Amino acid transport and metabolism
+957,SMLT_RS15715,O,"Posttranslational modification, protein turnover, chaperones"
+958,SMLT_RS15720,F,Nucleotide transport and metabolism
+959,SMLT_RS15730,O,"Posttranslational modification, protein turnover, chaperones"
+960,SMLT_RS15730,R,General function prediction only
+961,SMLT_RS15730,T,Signal transduction mechanisms
+962,SMLT_RS15770,R,General function prediction only
+963,SMLT_RS15780,J,"Translation, ribosomal structure and biogenesis"
+964,SMLT_RS15780,T,Signal transduction mechanisms
+965,SMLT_RS15790,T,Signal transduction mechanisms
+966,SMLT_RS15800,J,"Translation, ribosomal structure and biogenesis"
+967,SMLT_RS15800,R,General function prediction only
+968,SMLT_RS15805,G,Carbohydrate transport and metabolism
+969,SMLT_RS15845,M,Cell wall/membrane/envelope biogenesis
+970,SMLT_RS15890,P,Inorganic ion transport and metabolism
+971,SMLT_RS15910,K,Transcription
+972,SMLT_RS15910,L,"Replication, recombination and repair"
+973,SMLT_RS15945,S,Function unknown
+974,SMLT_RS15950,G,Carbohydrate transport and metabolism
+975,SMLT_RS16000,E,Amino acid transport and metabolism
+976,SMLT_RS16040,J,"Translation, ribosomal structure and biogenesis"
+977,SMLT_RS16040,O,"Posttranslational modification, protein turnover, chaperones"
+978,SMLT_RS16040,R,General function prediction only
+979,SMLT_RS16040,T,Signal transduction mechanisms
+980,SMLT_RS16045,J,"Translation, ribosomal structure and biogenesis"
+981,SMLT_RS16045,O,"Posttranslational modification, protein turnover, chaperones"
+982,SMLT_RS16045,R,General function prediction only
+983,SMLT_RS16045,T,Signal transduction mechanisms
+984,SMLT_RS16050,J,"Translation, ribosomal structure and biogenesis"
+985,SMLT_RS16050,R,General function prediction only
+986,SMLT_RS16095,J,"Translation, ribosomal structure and biogenesis"
+987,SMLT_RS16095,R,General function prediction only
+988,SMLT_RS16100,J,"Translation, ribosomal structure and biogenesis"
+989,SMLT_RS16100,R,General function prediction only
+990,SMLT_RS16115,J,"Translation, ribosomal structure and biogenesis"
+991,SMLT_RS16115,R,General function prediction only
+992,SMLT_RS16120,K,Transcription
+993,SMLT_RS16120,R,General function prediction only
+994,SMLT_RS16125,J,"Translation, ribosomal structure and biogenesis"
+995,SMLT_RS16145,C,Energy production and conversion
+996,SMLT_RS16165,P,Inorganic ion transport and metabolism
+997,SMLT_RS16170,C,Energy production and conversion
+998,SMLT_RS16170,P,Inorganic ion transport and metabolism
+999,SMLT_RS16175,P,Inorganic ion transport and metabolism
+1000,SMLT_RS16180,M,Cell wall/membrane/envelope biogenesis
+1001,SMLT_RS16180,P,Inorganic ion transport and metabolism
+1002,SMLT_RS16180,R,General function prediction only
+1003,SMLT_RS16190,P,Inorganic ion transport and metabolism
+1004,SMLT_RS16215,R,General function prediction only
+1005,SMLT_RS16220,G,Carbohydrate transport and metabolism
+1006,SMLT_RS16230,O,"Posttranslational modification, protein turnover, chaperones"
+1007,SMLT_RS16255,C,Energy production and conversion
+1008,SMLT_RS16260,E,Amino acid transport and metabolism
+1009,SMLT_RS16310,E,Amino acid transport and metabolism
+1010,SMLT_RS16310,P,Inorganic ion transport and metabolism
+1011,SMLT_RS16310,R,General function prediction only
+1012,SMLT_RS16310,T,Signal transduction mechanisms
+1013,SMLT_RS16315,P,Inorganic ion transport and metabolism
+1014,SMLT_RS16320,E,Amino acid transport and metabolism
+1015,SMLT_RS16325,J,"Translation, ribosomal structure and biogenesis"
+1016,SMLT_RS16325,R,General function prediction only
+1017,SMLT_RS16365,J,"Translation, ribosomal structure and biogenesis"
+1018,SMLT_RS16365,O,"Posttranslational modification, protein turnover, chaperones"
+1019,SMLT_RS16365,R,General function prediction only
+1020,SMLT_RS16365,T,Signal transduction mechanisms
+1021,SMLT_RS16385,F,Nucleotide transport and metabolism
+1022,SMLT_RS16390,O,"Posttranslational modification, protein turnover, chaperones"
+1023,SMLT_RS16395,P,Inorganic ion transport and metabolism
+1024,SMLT_RS16400,P,Inorganic ion transport and metabolism
+1025,SMLT_RS16415,P,Inorganic ion transport and metabolism
+1026,SMLT_RS16415,R,General function prediction only
+1027,SMLT_RS16425,R,General function prediction only
+1028,SMLT_RS16430,Q,"Secondary metabolites biosynthesis, transport and catabolism"
+1029,SMLT_RS16445,P,Inorganic ion transport and metabolism
+1030,SMLT_RS16465,O,"Posttranslational modification, protein turnover, chaperones"
+1031,SMLT_RS16475,M,Cell wall/membrane/envelope biogenesis
+1032,SMLT_RS16485,M,Cell wall/membrane/envelope biogenesis
+1033,SMLT_RS16495,J,"Translation, ribosomal structure and biogenesis"
+1034,SMLT_RS16495,O,"Posttranslational modification, protein turnover, chaperones"
+1035,SMLT_RS16495,R,General function prediction only
+1036,SMLT_RS16495,T,Signal transduction mechanisms
+1037,SMLT_RS16500,L,"Replication, recombination and repair"
+1038,SMLT_RS16525,M,Cell wall/membrane/envelope biogenesis
+1039,SMLT_RS16550,P,Inorganic ion transport and metabolism
+1040,SMLT_RS16555,P,Inorganic ion transport and metabolism
+1041,SMLT_RS16570,J,"Translation, ribosomal structure and biogenesis"
+1042,SMLT_RS16570,T,Signal transduction mechanisms
+1043,SMLT_RS16580,R,General function prediction only
+1044,SMLT_RS16590,P,Inorganic ion transport and metabolism
+1045,SMLT_RS16595,O,"Posttranslational modification, protein turnover, chaperones"
+1046,SMLT_RS16595,R,General function prediction only
+1047,SMLT_RS16685,S,Function unknown
+1048,SMLT_RS16685,U,"Intracellular trafficking, secretion, and vesicular transport"
+1049,SMLT_RS16700,R,General function prediction only
+1050,SMLT_RS16705,T,Signal transduction mechanisms
+1051,SMLT_RS16770,J,"Translation, ribosomal structure and biogenesis"
+1052,SMLT_RS16770,O,"Posttranslational modification, protein turnover, chaperones"
+1053,SMLT_RS16770,R,General function prediction only
+1054,SMLT_RS16790,O,"Posttranslational modification, protein turnover, chaperones"
+1055,SMLT_RS16820,K,Transcription
+1056,SMLT_RS16820,L,"Replication, recombination and repair"
+1057,SMLT_RS16820,O,"Posttranslational modification, protein turnover, chaperones"
+1058,SMLT_RS16830,R,General function prediction only
+1059,SMLT_RS16840,F,Nucleotide transport and metabolism
+1060,SMLT_RS16845,K,Transcription
+1061,SMLT_RS16845,R,General function prediction only
+1062,SMLT_RS16875,J,"Translation, ribosomal structure and biogenesis"
+1063,SMLT_RS16875,R,General function prediction only
+1064,SMLT_RS16895,L,"Replication, recombination and repair"
+1065,SMLT_RS16900,J,"Translation, ribosomal structure and biogenesis"
+1066,SMLT_RS16900,R,General function prediction only
+1067,SMLT_RS16905,J,"Translation, ribosomal structure and biogenesis"
+1068,SMLT_RS16905,R,General function prediction only
+1069,SMLT_RS16915,P,Inorganic ion transport and metabolism
+1070,SMLT_RS16920,D,"Cell cycle control, cell division, chromosome partitioning"
+1071,SMLT_RS16920,R,General function prediction only
+1072,SMLT_RS16950,G,Carbohydrate transport and metabolism
+1073,SMLT_RS16950,P,Inorganic ion transport and metabolism
+1074,SMLT_RS16960,R,General function prediction only
+1075,SMLT_RS16965,P,Inorganic ion transport and metabolism
+1076,SMLT_RS16965,T,Signal transduction mechanisms
+1077,SMLT_RS16985,T,Signal transduction mechanisms
+1078,SMLT_RS16990,K,Transcription
+1079,SMLT_RS17005,O,"Posttranslational modification, protein turnover, chaperones"
+1080,SMLT_RS17015,P,Inorganic ion transport and metabolism
+1081,SMLT_RS17040,R,General function prediction only
+1082,SMLT_RS17050,K,Transcription
+1083,SMLT_RS17050,T,Signal transduction mechanisms
+1084,SMLT_RS17055,C,Energy production and conversion
+1085,SMLT_RS17055,P,Inorganic ion transport and metabolism
+1086,SMLT_RS17065,S,Function unknown
+1087,SMLT_RS17080,P,Inorganic ion transport and metabolism
+1088,SMLT_RS17080,T,Signal transduction mechanisms
+1089,SMLT_RS17085,J,"Translation, ribosomal structure and biogenesis"
+1090,SMLT_RS17135,C,Energy production and conversion
+1091,SMLT_RS17140,F,Nucleotide transport and metabolism
+1092,SMLT_RS17155,G,Carbohydrate transport and metabolism
+1093,SMLT_RS17155,J,"Translation, ribosomal structure and biogenesis"
+1094,SMLT_RS17185,G,Carbohydrate transport and metabolism
+1095,SMLT_RS17190,K,Transcription
+1096,SMLT_RS17190,O,"Posttranslational modification, protein turnover, chaperones"
+1097,SMLT_RS17190,T,Signal transduction mechanisms
+1098,SMLT_RS17225,R,General function prediction only
+1099,SMLT_RS17290,S,Function unknown
+1100,SMLT_RS17305,E,Amino acid transport and metabolism
+1101,SMLT_RS17305,S,Function unknown
+1102,SMLT_RS17305,T,Signal transduction mechanisms
+1103,SMLT_RS17315,D,"Cell cycle control, cell division, chromosome partitioning"
+1104,SMLT_RS17315,R,General function prediction only
+1105,SMLT_RS17315,T,Signal transduction mechanisms
+1106,SMLT_RS17325,S,Function unknown
+1107,SMLT_RS17330,R,General function prediction only
+1108,SMLT_RS17355,P,Inorganic ion transport and metabolism
+1109,SMLT_RS17365,S,Function unknown
+1110,SMLT_RS17385,O,"Posttranslational modification, protein turnover, chaperones"
+1111,SMLT_RS17385,P,Inorganic ion transport and metabolism
+1112,SMLT_RS17390,G,Carbohydrate transport and metabolism
+1113,SMLT_RS17425,P,Inorganic ion transport and metabolism
+1114,SMLT_RS17475,N,Cell motility
+1115,SMLT_RS17475,T,Signal transduction mechanisms
+1116,SMLT_RS17480,N,Cell motility
+1117,SMLT_RS17480,P,Inorganic ion transport and metabolism
+1118,SMLT_RS17480,T,Signal transduction mechanisms
+1119,SMLT_RS17485,N,Cell motility
+1120,SMLT_RS17485,T,Signal transduction mechanisms
+1121,SMLT_RS17505,P,Inorganic ion transport and metabolism
+1122,SMLT_RS17515,O,"Posttranslational modification, protein turnover, chaperones"
+1123,SMLT_RS17515,R,General function prediction only
+1124,SMLT_RS17545,R,General function prediction only
+1125,SMLT_RS17545,U,"Intracellular trafficking, secretion, and vesicular transport"
+1126,SMLT_RS17565,L,"Replication, recombination and repair"
+1127,SMLT_RS17565,O,"Posttranslational modification, protein turnover, chaperones"
+1128,SMLT_RS17565,R,General function prediction only
+1129,SMLT_RS17635,R,General function prediction only
+1130,SMLT_RS17650,R,General function prediction only
+1131,SMLT_RS17650,U,"Intracellular trafficking, secretion, and vesicular transport"
+1132,SMLT_RS17680,P,Inorganic ion transport and metabolism
+1133,SMLT_RS17685,K,Transcription
+1134,SMLT_RS17685,L,"Replication, recombination and repair"
+1135,SMLT_RS17685,O,"Posttranslational modification, protein turnover, chaperones"
+1136,SMLT_RS17690,L,"Replication, recombination and repair"
+1137,SMLT_RS17690,R,General function prediction only
+1138,SMLT_RS17695,K,Transcription
+1139,SMLT_RS17715,J,"Translation, ribosomal structure and biogenesis"
+1140,SMLT_RS17715,O,"Posttranslational modification, protein turnover, chaperones"
+1141,SMLT_RS17715,R,General function prediction only
+1142,SMLT_RS17715,T,Signal transduction mechanisms
+1143,SMLT_RS17745,K,Transcription
+1144,SMLT_RS17745,O,"Posttranslational modification, protein turnover, chaperones"
+1145,SMLT_RS17745,R,General function prediction only
+1146,SMLT_RS17750,P,Inorganic ion transport and metabolism
+1147,SMLT_RS17755,R,General function prediction only
+1148,SMLT_RS17765,K,Transcription
+1149,SMLT_RS17770,T,Signal transduction mechanisms
+1150,SMLT_RS17780,O,"Posttranslational modification, protein turnover, chaperones"
+1151,SMLT_RS17780,T,Signal transduction mechanisms
+1152,SMLT_RS17815,P,Inorganic ion transport and metabolism
+1153,SMLT_RS17855,M,Cell wall/membrane/envelope biogenesis
+1154,SMLT_RS17870,I,Lipid transport and metabolism
+1155,SMLT_RS17875,C,Energy production and conversion
+1156,SMLT_RS17875,O,"Posttranslational modification, protein turnover, chaperones"
+1157,SMLT_RS17890,O,"Posttranslational modification, protein turnover, chaperones"
+1158,SMLT_RS17890,P,Inorganic ion transport and metabolism
+1159,SMLT_RS17905,P,Inorganic ion transport and metabolism
+1160,SMLT_RS17905,R,General function prediction only
+1161,SMLT_RS17930,K,Transcription
+1162,SMLT_RS17950,I,Lipid transport and metabolism
+1163,SMLT_RS18040,P,Inorganic ion transport and metabolism
+1164,SMLT_RS18050,P,Inorganic ion transport and metabolism
+1165,SMLT_RS18070,J,"Translation, ribosomal structure and biogenesis"
+1166,SMLT_RS18080,G,Carbohydrate transport and metabolism
+1167,SMLT_RS18085,G,Carbohydrate transport and metabolism
+1168,SMLT_RS18095,G,Carbohydrate transport and metabolism
+1169,SMLT_RS18110,P,Inorganic ion transport and metabolism
+1170,SMLT_RS18110,R,General function prediction only
+1171,SMLT_RS18115,P,Inorganic ion transport and metabolism
+1172,SMLT_RS18135,P,Inorganic ion transport and metabolism
+1173,SMLT_RS18140,K,Transcription
+1174,SMLT_RS18155,G,Carbohydrate transport and metabolism
+1175,SMLT_RS18160,E,Amino acid transport and metabolism
+1176,SMLT_RS18190,O,"Posttranslational modification, protein turnover, chaperones"
+1177,SMLT_RS18220,M,Cell wall/membrane/envelope biogenesis
+1178,SMLT_RS18265,C,Energy production and conversion
+1179,SMLT_RS18265,T,Signal transduction mechanisms
+1180,SMLT_RS18270,J,"Translation, ribosomal structure and biogenesis"
+1181,SMLT_RS18270,R,General function prediction only
+1182,SMLT_RS18280,L,"Replication, recombination and repair"
+1183,SMLT_RS18280,O,"Posttranslational modification, protein turnover, chaperones"
+1184,SMLT_RS18280,R,General function prediction only
+1185,SMLT_RS18295,K,Transcription
+1186,SMLT_RS18300,F,Nucleotide transport and metabolism
+1187,SMLT_RS18325,T,Signal transduction mechanisms
+1188,SMLT_RS18335,D,"Cell cycle control, cell division, chromosome partitioning"
+1189,SMLT_RS18335,R,General function prediction only
+1190,SMLT_RS18335,T,Signal transduction mechanisms
+1191,SMLT_RS18345,O,"Posttranslational modification, protein turnover, chaperones"
+1192,SMLT_RS18350,K,Transcription
+1193,SMLT_RS18365,J,"Translation, ribosomal structure and biogenesis"
+1194,SMLT_RS18380,R,General function prediction only
+1195,SMLT_RS18380,T,Signal transduction mechanisms
+1196,SMLT_RS18390,N,Cell motility
+1197,SMLT_RS18415,D,"Cell cycle control, cell division, chromosome partitioning"
+1198,SMLT_RS18425,K,Transcription
+1199,SMLT_RS18425,R,General function prediction only
+1200,SMLT_RS18540,P,Inorganic ion transport and metabolism
+1201,SMLT_RS18545,P,Inorganic ion transport and metabolism
+1202,SMLT_RS18550,P,Inorganic ion transport and metabolism
+1203,SMLT_RS18555,P,Inorganic ion transport and metabolism
+1204,SMLT_RS18565,P,Inorganic ion transport and metabolism
+1205,SMLT_RS18575,P,Inorganic ion transport and metabolism
+1206,SMLT_RS18585,K,Transcription
+1207,SMLT_RS18595,T,Signal transduction mechanisms
+1208,SMLT_RS18600,T,Signal transduction mechanisms
+1209,SMLT_RS18610,P,Inorganic ion transport and metabolism
+1210,SMLT_RS18625,M,Cell wall/membrane/envelope biogenesis
+1211,SMLT_RS18630,H,Coenzyme transport and metabolism
+1212,SMLT_RS18635,P,Inorganic ion transport and metabolism
+1213,SMLT_RS18640,E,Amino acid transport and metabolism
+1214,SMLT_RS18670,J,"Translation, ribosomal structure and biogenesis"
+1215,SMLT_RS18670,R,General function prediction only
+1216,SMLT_RS18700,P,Inorganic ion transport and metabolism
+1217,SMLT_RS18770,P,Inorganic ion transport and metabolism
+1218,SMLT_RS18775,E,Amino acid transport and metabolism
+1219,SMLT_RS18785,T,Signal transduction mechanisms
+1220,SMLT_RS18800,T,Signal transduction mechanisms
+1221,SMLT_RS18805,K,Transcription
+1222,SMLT_RS18810,S,Function unknown
+1223,SMLT_RS18815,P,Inorganic ion transport and metabolism
+1224,SMLT_RS18820,T,Signal transduction mechanisms
+1225,SMLT_RS18865,O,"Posttranslational modification, protein turnover, chaperones"
+1226,SMLT_RS18925,T,Signal transduction mechanisms
+1227,SMLT_RS18955,K,Transcription
+1228,SMLT_RS18965,R,General function prediction only
+1229,SMLT_RS18985,K,Transcription
+1230,SMLT_RS19010,K,Transcription
+1231,SMLT_RS19015,R,General function prediction only
+1232,SMLT_RS19025,C,Energy production and conversion
+1233,SMLT_RS19025,O,"Posttranslational modification, protein turnover, chaperones"
+1234,SMLT_RS19050,R,General function prediction only
+1235,SMLT_RS19060,P,Inorganic ion transport and metabolism
+1236,SMLT_RS19070,P,Inorganic ion transport and metabolism
+1237,SMLT_RS19075,P,Inorganic ion transport and metabolism
+1238,SMLT_RS19125,P,Inorganic ion transport and metabolism
+1239,SMLT_RS19135,G,Carbohydrate transport and metabolism
+1240,SMLT_RS19140,K,Transcription
+1241,SMLT_RS19140,M,Cell wall/membrane/envelope biogenesis
+1242,SMLT_RS19140,R,General function prediction only
+1243,SMLT_RS19155,G,Carbohydrate transport and metabolism
+1244,SMLT_RS19155,O,"Posttranslational modification, protein turnover, chaperones"
+1245,SMLT_RS19160,P,Inorganic ion transport and metabolism
+1246,SMLT_RS19200,T,Signal transduction mechanisms
+1247,SMLT_RS19215,R,General function prediction only
+1248,SMLT_RS19270,M,Cell wall/membrane/envelope biogenesis
+1249,SMLT_RS19290,D,"Cell cycle control, cell division, chromosome partitioning"
+1250,SMLT_RS19295,M,Cell wall/membrane/envelope biogenesis
+1251,SMLT_RS19295,P,Inorganic ion transport and metabolism
+1252,SMLT_RS19300,M,Cell wall/membrane/envelope biogenesis
+1253,SMLT_RS19310,D,"Cell cycle control, cell division, chromosome partitioning"
+1254,SMLT_RS19310,Z,Cytoskeleton
+1255,SMLT_RS19365,P,Inorganic ion transport and metabolism
+1256,SMLT_RS19385,O,"Posttranslational modification, protein turnover, chaperones"
+1257,SMLT_RS19385,T,Signal transduction mechanisms
+1258,SMLT_RS19505,F,Nucleotide transport and metabolism
+1259,SMLT_RS19505,K,Transcription
+1260,SMLT_RS19505,M,Cell wall/membrane/envelope biogenesis
+1261,SMLT_RS19505,R,General function prediction only
+1262,SMLT_RS19510,P,Inorganic ion transport and metabolism
+1263,SMLT_RS19515,O,"Posttranslational modification, protein turnover, chaperones"
+1264,SMLT_RS19515,R,General function prediction only
+1265,SMLT_RS19520,P,Inorganic ion transport and metabolism
+1266,SMLT_RS19525,P,Inorganic ion transport and metabolism
+1267,SMLT_RS19535,K,Transcription
+1268,SMLT_RS19535,O,"Posttranslational modification, protein turnover, chaperones"
+1269,SMLT_RS19555,P,Inorganic ion transport and metabolism
+1270,SMLT_RS19565,O,"Posttranslational modification, protein turnover, chaperones"
+1271,SMLT_RS19570,C,Energy production and conversion
+1272,SMLT_RS19575,O,"Posttranslational modification, protein turnover, chaperones"
+1273,SMLT_RS19625,P,Inorganic ion transport and metabolism
+1274,SMLT_RS19635,C,Energy production and conversion
+1275,SMLT_RS19645,G,Carbohydrate transport and metabolism
+1276,SMLT_RS19645,K,Transcription
+1277,SMLT_RS19665,K,Transcription
+1278,SMLT_RS19700,R,General function prediction only
+1279,SMLT_RS19710,P,Inorganic ion transport and metabolism
+1280,SMLT_RS19770,K,Transcription
+1281,SMLT_RS19770,R,General function prediction only
+1282,SMLT_RS19785,K,Transcription
+1283,SMLT_RS19785,R,General function prediction only
+1284,SMLT_RS19795,G,Carbohydrate transport and metabolism
+1285,SMLT_RS19820,K,Transcription
+1286,SMLT_RS19825,J,"Translation, ribosomal structure and biogenesis"
+1287,SMLT_RS19825,T,Signal transduction mechanisms
+1288,SMLT_RS19875,J,"Translation, ribosomal structure and biogenesis"
+1289,SMLT_RS19875,R,General function prediction only
+1290,SMLT_RS19880,F,Nucleotide transport and metabolism
+1291,SMLT_RS19880,J,"Translation, ribosomal structure and biogenesis"
+1292,SMLT_RS19885,J,"Translation, ribosomal structure and biogenesis"
+1293,SMLT_RS19920,J,"Translation, ribosomal structure and biogenesis"
+1294,SMLT_RS19920,O,"Posttranslational modification, protein turnover, chaperones"
+1295,SMLT_RS19950,E,Amino acid transport and metabolism
+1296,SMLT_RS19950,P,Inorganic ion transport and metabolism
+1297,SMLT_RS20025,R,General function prediction only
+1298,SMLT_RS20030,K,Transcription
+1299,SMLT_RS20035,T,Signal transduction mechanisms
+1300,SMLT_RS20040,K,Transcription
+1301,SMLT_RS20050,G,Carbohydrate transport and metabolism
+1302,SMLT_RS20065,O,"Posttranslational modification, protein turnover, chaperones"
+1303,SMLT_RS20065,T,Signal transduction mechanisms
+1304,SMLT_RS20070,L,"Replication, recombination and repair"
+1305,SMLT_RS20070,R,General function prediction only
+1306,SMLT_RS20085,C,Energy production and conversion
+1307,SMLT_RS20100,Q,"Secondary metabolites biosynthesis, transport and catabolism"
+1308,SMLT_RS20150,M,Cell wall/membrane/envelope biogenesis
+1309,SMLT_RS20190,O,"Posttranslational modification, protein turnover, chaperones"
+1310,SMLT_RS20225,M,Cell wall/membrane/envelope biogenesis
+1311,SMLT_RS20255,O,"Posttranslational modification, protein turnover, chaperones"
+1312,SMLT_RS20285,P,Inorganic ion transport and metabolism
+1313,SMLT_RS20290,D,"Cell cycle control, cell division, chromosome partitioning"
+1314,SMLT_RS20290,O,"Posttranslational modification, protein turnover, chaperones"
+1315,SMLT_RS20290,R,General function prediction only
+1316,SMLT_RS20295,O,"Posttranslational modification, protein turnover, chaperones"
+1317,SMLT_RS20295,R,General function prediction only
+1318,SMLT_RS20300,O,"Posttranslational modification, protein turnover, chaperones"
+1319,SMLT_RS20305,K,Transcription
+1320,SMLT_RS20305,O,"Posttranslational modification, protein turnover, chaperones"
+1321,SMLT_RS20305,R,General function prediction only
+1322,SMLT_RS20315,P,Inorganic ion transport and metabolism
+1323,SMLT_RS20320,T,Signal transduction mechanisms
+1324,SMLT_RS20330,T,Signal transduction mechanisms
+1325,SMLT_RS20335,R,General function prediction only
+1326,SMLT_RS20345,C,Energy production and conversion
+1327,SMLT_RS20355,M,Cell wall/membrane/envelope biogenesis
+1328,SMLT_RS20365,R,General function prediction only
+1329,SMLT_RS20425,O,"Posttranslational modification, protein turnover, chaperones"
+1330,SMLT_RS20445,T,Signal transduction mechanisms
+1331,SMLT_RS20480,J,"Translation, ribosomal structure and biogenesis"
+1332,SMLT_RS20485,J,"Translation, ribosomal structure and biogenesis"
+1333,SMLT_RS20500,E,Amino acid transport and metabolism
+1334,SMLT_RS20520,E,Amino acid transport and metabolism
+1335,SMLT_RS20525,E,Amino acid transport and metabolism
+1336,SMLT_RS20530,F,Nucleotide transport and metabolism
+1337,SMLT_RS20560,O,"Posttranslational modification, protein turnover, chaperones"
+1338,SMLT_RS20565,F,Nucleotide transport and metabolism
+1339,SMLT_RS20565,O,"Posttranslational modification, protein turnover, chaperones"
+1340,SMLT_RS20585,C,Energy production and conversion
+1341,SMLT_RS20590,R,General function prediction only
+1342,SMLT_RS20645,O,"Posttranslational modification, protein turnover, chaperones"
+1343,SMLT_RS20650,E,Amino acid transport and metabolism
+1344,SMLT_RS20650,P,Inorganic ion transport and metabolism
+1345,SMLT_RS20650,V,Defense mechanisms
+1346,SMLT_RS20655,C,Energy production and conversion
+1347,SMLT_RS20655,E,Amino acid transport and metabolism
+1348,SMLT_RS20765,E,Amino acid transport and metabolism
+1349,SMLT_RS20775,O,"Posttranslational modification, protein turnover, chaperones"
+1350,SMLT_RS20865,P,Inorganic ion transport and metabolism
+1351,SMLT_RS20900,O,"Posttranslational modification, protein turnover, chaperones"
+1352,SMLT_RS21045,P,Inorganic ion transport and metabolism
+1353,SMLT_RS21155,S,Function unknown
+1354,SMLT_RS21185,J,"Translation, ribosomal structure and biogenesis"
+1355,SMLT_RS21200,P,Inorganic ion transport and metabolism
+1356,SMLT_RS21245,O,"Posttranslational modification, protein turnover, chaperones"
+1357,SMLT_RS21270,R,General function prediction only
+1358,SMLT_RS21275,O,"Posttranslational modification, protein turnover, chaperones"
+1359,SMLT_RS21275,R,General function prediction only
+1360,SMLT_RS21285,R,General function prediction only
+1361,SMLT_RS21300,H,Coenzyme transport and metabolism
+1362,SMLT_RS21330,S,Function unknown
+1363,SMLT_RS21405,O,"Posttranslational modification, protein turnover, chaperones"
+1364,SMLT_RS21405,R,General function prediction only
+1365,SMLT_RS21410,P,Inorganic ion transport and metabolism
+1366,SMLT_RS21420,R,General function prediction only
+1367,SMLT_RS21420,T,Signal transduction mechanisms
+1368,SMLT_RS21445,O,"Posttranslational modification, protein turnover, chaperones"
+1369,SMLT_RS21445,R,General function prediction only
+1370,SMLT_RS21555,I,Lipid transport and metabolism
+1371,SMLT_RS21560,P,Inorganic ion transport and metabolism
+1372,SMLT_RS21560,R,General function prediction only
+1373,SMLT_RS21635,J,"Translation, ribosomal structure and biogenesis"
+1374,SMLT_RS21645,I,Lipid transport and metabolism
+1375,SMLT_RS21665,M,Cell wall/membrane/envelope biogenesis
+1376,SMLT_RS21675,P,Inorganic ion transport and metabolism
+1377,SMLT_RS21680,P,Inorganic ion transport and metabolism
+1378,SMLT_RS21710,S,Function unknown
+1379,SMLT_RS21760,T,Signal transduction mechanisms
+1380,SMLT_RS21795,J,"Translation, ribosomal structure and biogenesis"
+1381,SMLT_RS21795,R,General function prediction only
+1382,SMLT_RS21800,J,"Translation, ribosomal structure and biogenesis"
+1383,SMLT_RS21800,R,General function prediction only
+1384,SMLT_RS21830,P,Inorganic ion transport and metabolism
+1385,SMLT_RS21835,P,Inorganic ion transport and metabolism
+1386,SMLT_RS21840,P,Inorganic ion transport and metabolism
+1387,SMLT_RS21840,R,General function prediction only
+1388,SMLT_RS21850,M,Cell wall/membrane/envelope biogenesis
+1389,SMLT_RS21860,R,General function prediction only
+1390,SMLT_RS21890,R,General function prediction only
+1391,SMLT_RS21915,L,"Replication, recombination and repair"
+1392,SMLT_RS21920,K,Transcription
+1393,SMLT_RS21965,O,"Posttranslational modification, protein turnover, chaperones"
+1394,SMLT_RS21965,R,General function prediction only
+1395,SMLT_RS21965,T,Signal transduction mechanisms
+1396,SMLT_RS21970,O,"Posttranslational modification, protein turnover, chaperones"
+1397,SMLT_RS21970,R,General function prediction only
+1398,SMLT_RS21970,T,Signal transduction mechanisms
+1399,SMLT_RS21980,F,Nucleotide transport and metabolism
+1400,SMLT_RS21995,P,Inorganic ion transport and metabolism
+1401,SMLT_RS21995,R,General function prediction only
+1402,SMLT_RS21995,U,"Intracellular trafficking, secretion, and vesicular transport"
+1403,SMLT_RS22000,R,General function prediction only
+1404,SMLT_RS22000,U,"Intracellular trafficking, secretion, and vesicular transport"
+1405,SMLT_RS22015,S,Function unknown
+1406,SMLT_RS22090,M,Cell wall/membrane/envelope biogenesis
+1407,SMLT_RS22135,H,Coenzyme transport and metabolism
+1408,SMLT_RS22135,T,Signal transduction mechanisms
+1409,SMLT_RS22150,P,Inorganic ion transport and metabolism
+1410,SMLT_RS22155,P,Inorganic ion transport and metabolism
+1411,SMLT_RS22155,R,General function prediction only
+1412,SMLT_RS22160,P,Inorganic ion transport and metabolism
+1413,SMLT_RS22185,O,"Posttranslational modification, protein turnover, chaperones"
+1414,SMLT_RS22185,R,General function prediction only
+1415,SMLT_RS22190,P,Inorganic ion transport and metabolism
+1416,SMLT_RS22205,M,Cell wall/membrane/envelope biogenesis
+1417,SMLT_RS22210,P,Inorganic ion transport and metabolism
+1418,SMLT_RS22245,E,Amino acid transport and metabolism
+1419,SMLT_RS22245,P,Inorganic ion transport and metabolism
+1420,SMLT_RS22260,E,Amino acid transport and metabolism
+1421,SMLT_RS22260,P,Inorganic ion transport and metabolism
+1422,SMLT_RS22270,J,"Translation, ribosomal structure and biogenesis"
+1423,SMLT_RS22270,K,Transcription
+1424,SMLT_RS22280,O,"Posttranslational modification, protein turnover, chaperones"
+1425,SMLT_RS22285,I,Lipid transport and metabolism
+1426,SMLT_RS22305,J,"Translation, ribosomal structure and biogenesis"
+1427,SMLT_RS22310,J,"Translation, ribosomal structure and biogenesis"
+1428,SMLT_RS22310,R,General function prediction only
+1429,SMLT_RS22370,K,Transcription
