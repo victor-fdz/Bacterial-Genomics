@@ -14,6 +14,6 @@ All of them are **python** scripts that use famous packages⚙️ such as *matpl
   
 ## 📁 `COG_terms`
 - 📄 `Locus_tag_filtered_results.txt`: locus tags for each gene that has been defined as differentially expressed in our data (previously filtering⌨️ made). It is one of the inputs.
-- 📄 `Stenotrophomonas_maltophilia_K279a_ASM7248v1_genomic.g2d.COG`: COG (Clusters of Orthologous Genes) terms for each gene of the reference S. maltophilia K279a genome. It is one of the imputs.
-- 💻 `COGs.py`: script that uses the COG terms for our DEGs.
+- 📄 `Stenotrophomonas_maltophilia_K279a_ASM7248v1_genomic.g2d.COG`: COG (Clusters of Orthologous Genes) terms for each gene of the reference S. maltophilia K279a genome. It is one of the inputs. Retrieved from: [Genome2D webserver](http://genome2d.molgenrug.nl/).
+- 💻 `COGs.py`: script that mathches the COG terms to our DEGs.
 - 📄 `DEGs_with_COGs.csv`: csv output file🔧 with each DEG and its COG term. 
