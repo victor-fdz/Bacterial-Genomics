@@ -1,6 +1,6 @@
 # Problem 2: RNA-seq analysis 🧬
-In this repository you will find some scripts💻 that I used to adress different issues that my group ecountered while solving💡 an exercicie in the context of the subject **Bacterial Genomics**🔬. 
-All of them are **python** scripts that use famous packages⚙️ such as *matplotlib*, *pandas*, *numpy*.
+In this repository you will find some scripts💻 that I used to adress different issues that my group ecountered while solving💡 an exercicie in the context of the subject "**Bacterial Genomics**"🔬. 
+All of them are **python** scripts that use famous packages⚙️ such as *matplotlib*, *pandas* and *numpy*.
 
 ## 📁 `FPKMs_plotting`
 - 📄 `gene_count_fpkm.txt`: FPKM values for each gene and for each replica of the experiment. It is the input.
