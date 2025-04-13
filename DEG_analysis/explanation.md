@@ -1,8 +1,8 @@
-# "Problem 2: RNA-seq analysis" 💻
-In this repository you will find some scripts that I used to solve different problems my group phased when trying to solve a problem in the context of the subject "Bacterial Genomics".
-what we have learnt in the practical cases (**ggplot2** R tool ⚙️, **numpy** and **pandas** Python packages...) in a real data analysis that I'm currently doing in **Center for Research on agricultural Genomics** (CRAG), where I'm doing my second internship 🔬.
+# Problem 2: RNA-seq analysis 🧬
+In this repository you will find some scripts 💻 that I used to solve different problems that my group phased when trying to solve a problem in the context of the subject **Bacterial Genomics**🔬. 
+All of them are **python** scripts that use famous packages⚙️ such as *matplotlib*, *pandas*, *numpy*.
 
-## 1. Plotting Structural Variants in a Karyotype (📁 `SVs_Plots`)
+## 📁 `Files`
 In this analysis I'm searching 🔎 for candidate SVs that can be causing an specific disease in an specific animal specie. The file `Plot_SVs_Script.R` ⌨️ is an script that takes as arguments: 
 - 📄 `SVs.txt`: an example file with randomly generated SVs.
 - 📄 `chr_tab_len.txt`: each chromosome of the reference genome with its length. Also artificially modified to keep real data private.
