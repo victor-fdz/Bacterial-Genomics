@@ -24,4 +24,4 @@ Some of the steps needed to solve the diverse questions and objectives we were a
 
 ```markdown
 ```bash
-echo head -n 5 DEGs_with_COGs.csv
+head "/COG_terms/DEGs_with_COGs.csv"
